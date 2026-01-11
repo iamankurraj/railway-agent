@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🚄 SMART RAILWAY QUERY SYSTEM</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div id="app">
+    <h1>🚄 SMART RAILWAY QUERY SYSTEM</h1>
+
+    <div id="chat-box">
+      <div id="messages"></div>
+      <form id="form">
+        <input id="input" type="text" placeholder="Ask something about your data..." required autocomplete="off" />
+        <button type="submit">Ask</button>
+      </form>
+    </div>
+
+    <div id="result-section" class="hidden">
+      <h2>📊 Results</h2>
+      <div id="result-container"></div>
+    </div>
+  </div>
+
+  <script src="/static/script.js" defer></script>
+</body>
+</html>

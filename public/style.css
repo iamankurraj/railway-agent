@@ -1,0 +1,278 @@
+/* === GLOBAL LAYOUT === */
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: #0f1115;
+  color: #e8e8e8;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* === HEADER === */
+h1 {
+  margin: 1.5rem 0 1rem 0;
+  font-size: 1.9rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  background: linear-gradient(90deg, #00b7ff, #00ffa6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#header {
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  margin-bottom: 1.5rem;
+  width: 100%;
+  text-align: center;
+}
+
+/* === SEARCH BAR === */
+#form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 1.5rem;
+}
+
+#input {
+  width: 420px;
+  padding: 0.9rem 1.2rem;
+  font-size: 1rem;
+  border: 2px solid #2d2f34;
+  border-radius: 12px;
+  background: #181a1f;
+  color: #e8e8e8;
+  outline: none;
+  transition: all 0.25s ease;
+}
+
+#input:focus {
+  border-color: #00b7ff;
+  background: #1d2026;
+  box-shadow: 0 0 10px #00b7ff55;
+}
+
+button {
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  background: linear-gradient(135deg, #007bff, #00b7ff);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px #00b7ff55;
+}
+
+/* === MESSAGES === */
+#messages {
+  width: 90%;
+  max-width: 650px;
+  max-height: 180px;
+  overflow-y: auto;
+  padding: 0.7rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  background: #16181c;
+}
+
+.msg {
+  margin: 0.5rem auto;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  line-height: 1.5;
+  max-width: 80%;
+  word-wrap: break-word;
+  text-align: justify;
+}
+
+.msg.user {
+  background: #00b7ff22;
+  color: #80d8ff;
+  align-self: flex-end;
+}
+
+.msg.ai {
+  background: #2a2d34;
+  color: #ddd;
+}
+
+/* === RESULTS TABLE === */
+.train-table {
+  width: 95%;
+  max-width: 1000px;
+  border-collapse: collapse;
+  margin-top: 1.5rem;
+  background: #181a1f;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.train-table th,
+.train-table td {
+  padding: 12px 14px;
+  text-align: center;
+  border-bottom: 1px solid #2d2f34;
+}
+
+.train-table th {
+  background: #00b7ff22;
+  color: #00b7ff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.train-table tbody tr:nth-child(even) {
+  background: #1c1f25;
+}
+
+.train-table tbody tr:hover {
+  background: #232730;
+}
+
+/* === TRAIN CLASS BLOCKS === */
+.class-item {
+  margin-bottom: 10px;        /* space between class rows */
+  padding: 6px 10px;          /* inner spacing */
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 8px;
+  line-height: 1.5;
+  font-size: 0.9rem;
+  display: block;
+}
+
+.class-item b {
+  color: #00b7ff;
+  display: block;
+  margin-bottom: 3px;
+}
+
+.train-table td:nth-child(6) {
+  max-width: 220px;
+  overflow-y: auto;
+  display: block;
+  margin: 0 auto;
+  text-align: left;
+}
+
+/* === INFO CARD === */
+.result-card {
+  background: #1a1d23;
+  padding: 1.2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 12px #00b7ff33;
+  margin: 1.2rem auto;
+  max-width: 750px;
+  color: #cfd8dc;
+  text-align: justify;
+  line-height: 1.6;
+}
+
+/* === LOADING SPINNER === */
+.loader {
+  border: 4px solid #2d2f34;
+  border-top: 4px solid #00b7ff;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  animation: spin 0.9s linear infinite;
+  margin: 1.5rem auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* === SMOOTH SCROLL === */
+html {
+  scroll-behavior: smooth;
+}
+
+/* === RESPONSIVENESS === */
+@media (max-width: 700px) {
+  #input {
+    width: 80%;
+  }
+
+  .train-table th, .train-table td {
+    font-size: 13px;
+    padding: 8px;
+  }
+
+  .class-item {
+    font-size: 0.85rem;
+  }
+}
+
+/* === INFO CARD (ENHANCED) === */
+.result-card {
+  background: #101217;
+  padding: 1.8rem;
+  border-radius: 14px;
+  box-shadow: 0 0 20px rgba(0, 183, 255, 0.25);
+  margin: 1.5rem auto;
+  max-width: 780px;
+  color: #e8e8e8;
+  text-align: justify;
+  line-height: 1.7;
+  border: 1px solid rgba(0, 183, 255, 0.15);
+  transition: all 0.3s ease;
+}
+
+.result-card:hover {
+  box-shadow: 0 0 25px rgba(0, 183, 255, 0.35);
+  transform: translateY(-2px);
+}
+
+/* Card heading */
+.result-card .info-header {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.result-card .info-header h2 {
+  color: #00b7ff;
+  font-size: 1.4rem;
+  margin: 0;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.result-card hr {
+  width: 60%;
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.15);
+  margin: 0.8rem auto 1.2rem;
+}
+
+.result-card strong {
+  color: #00ffa6;
+  font-weight: 600;
+}
+
+.result-card em {
+  color: #80d8ff;
+  font-style: normal;
+}
+
+.result-card .emoji {
+  display: inline-block;
+  margin-right: 4px;
+  font-size: 1.1rem;
+}
