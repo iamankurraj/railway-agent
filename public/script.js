@@ -6,6 +6,9 @@ const form = $("#form");
 const input = $("#input");
 const resultSection = $("#result-section");
 const resultContainer = $("#result-container");
+const micBtn = document.getElementById("mic-btn");
+const inputField = document.getElementById("input");
+let recognition;
 
 // === LOADER SETUP ===
 const loader = document.createElement("div");
@@ -182,3 +185,57 @@ form.addEventListener("submit", async (e) => {
   // 🧭 Auto-scroll to results
   resultSection.scrollIntoView({ behavior: "smooth", block: "start" });
 });
+// ==============================
+// 🎙 SPEECH RECOGNITION SETUP
+// ==============================
+let isListening = false;
+
+// Browser compatibility
+const SpeechRecognition =
+  window.SpeechRecognition || window.webkitSpeechRecognition;
+
+if (SpeechRecognition) {
+  recognition = new SpeechRecognition();
+
+  recognition.continuous = false;
+  recognition.interimResults = false;
+  recognition.lang = "en-IN"; // adjust if needed
+
+  micBtn.addEventListener("click", () => {
+    if (isListening) return; // prevent double start
+
+    try {
+      isListening = true;
+      micBtn.textContent = "🎧 Listening...";
+      recognition.start();
+    } catch (err) {
+      console.error("Mic start error:", err);
+      isListening = false;
+      micBtn.textContent = "🎙";
+    }
+  });
+
+  recognition.onresult = (event) => {
+    const transcript = event.results[0][0].transcript;
+    inputField.value = transcript;
+  };
+
+  recognition.onerror = (event) => {
+    console.error("Speech recognition error:", event.error);
+  };
+
+  recognition.onend = () => {
+    micBtn.textContent = "🎙";
+    isListening = false;
+
+    // Auto-submit only if text exists
+    if (inputField.value.trim() !== "") {
+      form.requestSubmit();
+    }
+  };
+
+} else {
+  micBtn.disabled = true;
+  micBtn.textContent = "❌";
+  console.warn("Speech Recognition not supported in this browser.");
+}

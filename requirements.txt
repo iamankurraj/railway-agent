@@ -7,3 +7,11 @@ python-dotenv
 fastapi
 uvicorn
 pydantic
+faiss-cpu
+sentence-transformers
+openai-whisper
+sentence-transformers
+torch 
+torchaudio
+faster-whisper
+sounddevice

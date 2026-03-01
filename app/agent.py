@@ -2,7 +2,7 @@ from langgraph.graph import StateGraph, END
 from langchain_core.messages import HumanMessage
 from app.state import AgentState
 from app.nodes import input_node, llm_node, query_node, response_node   # 🧠 added llm_node
-
+from app.audio_search import listen_once
 def build_graph():
     graph = StateGraph(AgentState)
 
@@ -33,3 +33,8 @@ def invoke_text(user_text: str) -> str:
     init: AgentState = {"messages": [HumanMessage(content=user_text)]}
     out = app.invoke(init)
     return out.get("nl_output", "")
+
+def invoke_speech() -> str:
+    spoken_text = listen_once()
+    print("🎙 You said:", spoken_text)
+    return invoke_text(spoken_text)

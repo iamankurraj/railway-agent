@@ -12,9 +12,24 @@
 
     <div id="chat-box">
       <div id="messages"></div>
-      <form id="form">
+      <!-- <form id="form">
         <input id="input" type="text" placeholder="Ask something about your data..." required autocomplete="off" />
         <button type="submit">Ask</button>
+      </form> -->
+      <form id="form">
+        <div style="display: flex; gap: 8px; width: 100%;">
+          <input 
+            id="input" 
+            type="text" 
+            placeholder="Ask something about your data..." 
+            required 
+            autocomplete="off"
+            style="flex: 1;"
+          />
+          
+          <button type="button" id="mic-btn">🎙</button>
+          <button type="submit">Ask</button>
+        </div>
       </form>
     </div>
 
