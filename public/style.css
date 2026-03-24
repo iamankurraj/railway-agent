@@ -276,3 +276,221 @@ html {
   margin-right: 4px;
   font-size: 1.1rem;
 }
+
+
+
+/* #sidebar {
+  width: 250px;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: #0f172a;
+  padding: 15px;
+  overflow-y: auto;
+} */
+/* 
+#app {
+  margin-left: 260px;
+} */
+
+#history-list li {
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+#history-list li:hover {
+  background: #1e293b;
+}
+
+
+
+
+/* === SIDEBAR === */
+#sidebar {
+  width: 260px;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: #111827;
+  border-right: 1px solid rgba(255,255,255,0.07);
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
+  z-index: 100;
+}
+
+#sidebar-top {
+  padding: 16px 14px 10px;
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#sidebar-top h3 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #00b7ff;
+  letter-spacing: 0.5px;
+}
+
+#new-chat-btn {
+  width: 100%;
+  padding: 8px 12px;
+  font-size: 0.85rem;
+  background: rgba(0, 183, 255, 0.1);
+  border: 1px solid rgba(0, 183, 255, 0.25);
+  border-radius: 8px;
+  color: #00b7ff;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.2s;
+}
+
+#new-chat-btn:hover {
+  background: rgba(0, 183, 255, 0.2);
+  transform: none;
+  box-shadow: none;
+}
+
+/* === HISTORY GROUPS === */
+#history-groups {
+  flex: 1;
+  overflow-y: auto;
+  padding: 10px 8px;
+  scrollbar-width: thin;
+  scrollbar-color: #2d2f34 transparent;
+}
+
+#history-groups::-webkit-scrollbar {
+  width: 4px;
+}
+
+#history-groups::-webkit-scrollbar-thumb {
+  background: #2d2f34;
+  border-radius: 4px;
+}
+
+.history-date-group {
+  margin-bottom: 16px;
+}
+
+.history-date-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  padding: 4px 8px 6px;
+}
+
+.history-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #c9d1d9;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  transition: background 0.15s;
+  border: 1px solid transparent;
+  word-break: break-word;
+}
+
+.history-item:hover {
+  background: rgba(255,255,255,0.06);
+  border-color: rgba(255,255,255,0.08);
+}
+
+.history-item.active {
+  background: rgba(0, 183, 255, 0.12);
+  border-color: rgba(0, 183, 255, 0.2);
+  color: #e8e8e8;
+}
+
+.history-item-icon {
+  font-size: 0.75rem;
+  opacity: 0.5;
+  flex-shrink: 0;
+}
+
+.history-item-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 180px;
+}
+
+/* === MAIN APP OFFSET === */
+/* #app {
+  margin-left: 268px;
+  padding: 0 20px;
+} */
+
+/* === RESPONSIVE: Collapse sidebar on small screens === */
+@media (max-width: 700px) {
+  #sidebar {
+    width: 200px;
+  }
+  #app {
+    margin-left: 210px;
+  }
+  .history-item-text {
+    max-width: 130px;
+  }
+}
+
+#messages {
+  display: none;
+}
+
+
+/* === SIDEBAR TOGGLE === */
+#sidebar {
+  transition: transform 0.3s ease, width 0.3s ease;
+}
+
+#sidebar.collapsed {
+  transform: translateX(-260px);
+}
+
+#app {
+  transition: margin-left 0.3s ease;
+}
+
+#app.expanded {
+  margin-left: 0px;
+}
+
+#hamburger-btn {
+  position: fixed;
+  top: 14px;
+  left: 14px;
+  z-index: 200;
+  background: #1e293b;
+  border: 1px solid rgba(255,255,255,0.1);
+  color: #00b7ff;
+  font-size: 1.2rem;
+  padding: 6px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: left 0.3s ease, background 0.2s;
+}
+
+#hamburger-btn:hover {
+  background: #2d3f55;
+  transform: none;
+  box-shadow: none;
+}
+
+/* shift button right when sidebar is open */
+#hamburger-btn.sidebar-open {
+  left: 274px;
+}

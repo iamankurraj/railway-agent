@@ -1,28 +1,62 @@
 # app/nodes/llm_node.py
-import json, re, logging
+import json
+import re
+import logging
 from langchain_openai import ChatOpenAI
 from app.state import AgentState
 
 from dotenv import load_dotenv
 load_dotenv()
 
-
 logger = logging.getLogger(__name__)
 
-# Initialize OpenAI model (you can use gpt-4o-mini or gpt-4-turbo)
 llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+
+SYSTEM_PROMPT = """
+You are the intent parser for a Smart Railway Query System.
+
+Your ONLY job is to read a user's natural language query and return a JSON object.
+
+Valid intents:
+- "search_trains"      → user wants to find trains (most common)
+- "price_query"        → user is asking about fares, cost, price, how much
+- "schedule_query"     → user asking about timings, departure, arrival, schedule
+- "availability_check" → user asking about seat availability, seats left
+- "route_info"         → user asking about route, stops, which trains go where
+- "general_info"       → user asking what this system does, help, examples
+- "out_of_domain"      → completely unrelated to railways (e.g. weather, math)
+
+IMPORTANT RULES:
+- If the query mentions ANY of: train, from, to, route, between, fare, seat, class, ticket, book,
+  depart, arrive, schedule, available, coach, sleeper, AC — use a railway intent, NOT out_of_domain.
+- Be generous. "What trains go to Mumbai?" is search_trains, not out_of_domain.
+- "How much does it cost from Pune to Delhi?" is price_query.
+- "When does the train leave?" is schedule_query.
+- Only use out_of_domain for things like "What is 2+2?" or "What's the weather?"
+
+Extract these fields (use null if not mentioned):
+- intent: string (from list above)
+- origin: string (city/station name, lowercase)
+- destination: string (city/station name, lowercase)
+- class_name: string (e.g. "sleeper", "ac 2-tier", "ac 3-tier", "ac chair car", "second sitting")
+- min_price: number or null
+- max_price: number or null
+- date: string or null (e.g. "2025-11-05", or relative like "tomorrow", "today")
+- train_number: string or null
+
+Return ONLY a valid JSON object, no explanation, no markdown.
+"""
 
 def run(state: AgentState) -> AgentState:
     """LLM reasoning node — interprets user intent and fills query params."""
     user_query = state.input or ""
-    system_prompt = (
-        "You are part of a Smart Railway Query System. "
-        "Understand what the user wants and convert it into structured JSON. "
-        "Return ONLY JSON with these keys: intent, origin, destination, class_name, min_price."
-    )
+
+    if not user_query:
+        state.intent = "general_info"
+        return state
 
     messages = [
-        {"role": "system", "content": system_prompt},
+        {"role": "system", "content": SYSTEM_PROMPT},
         {"role": "user", "content": user_query}
     ]
 
@@ -30,13 +64,25 @@ def run(state: AgentState) -> AgentState:
         response = llm.invoke(messages).content
         logger.info("🧠 LLM raw output: %s", response)
 
-        parsed = json.loads(re.search(r"\{.*\}", response, re.S).group(0))
-    except Exception as e:
-        logger.warning("⚠️ Failed to parse LLM output: %s", e)
-        parsed = {"intent": "search_trains", "origin": None, "destination": None}
+        # Strip markdown code fences if present
+        clean = re.sub(r"```(?:json)?|```", "", response).strip()
+        match = re.search(r"\{.*\}", clean, re.S)
+        parsed = json.loads(match.group(0)) if match else {}
 
-    # Merge LLM output into agent state
-    state.params.update(parsed)
-    state.intent = parsed.get("intent", "search_trains")
-    print(f"🧠 LLM interpreted intent → {parsed}")
+    except Exception as e:
+        logger.warning("⚠️ LLM parse failed: %s", e)
+        # Safe fallback — assume train search and let query_node handle it
+        parsed = {"intent": "search_trains"}
+
+    # Merge into state — LLM output wins over input_node's regex guesses
+    # but we don't wipe params that input_node already found
+    merged_params = {**state.params, **{
+        k: v for k, v in parsed.items()
+        if k not in ("intent",) and v is not None
+    }}
+
+    state.params = merged_params
+    state.intent = parsed.get("intent", state.intent or "search_trains")
+
+    print(f"🧠 LLM → intent={state.intent}, params={state.params}")
     return state

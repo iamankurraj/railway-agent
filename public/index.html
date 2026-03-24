@@ -7,38 +7,52 @@
   <link rel="stylesheet" href="/static/style.css" />
 </head>
 <body>
+
+  <!-- ===== SIDEBAR ===== -->
+  <div id="sidebar">
+    <div id="sidebar-top">
+      <h3>🚄 Railway AI</h3>
+      <button id="new-chat-btn" onclick="startNewChat()">+ New Chat</button>
+    </div>
+    <div id="history-groups"></div>
+  </div>
+
+  <!-- ===== HAMBURGER BUTTON ===== -->
+  <button id="hamburger-btn" onclick="toggleSidebar()">☰</button>
+
+  <!-- ===== MAIN APP ===== -->
   <div id="app">
-    <h1>🚄 SMART RAILWAY QUERY SYSTEM</h1>
+    <h1 id="title"></h1>
+
+    <div style="margin-bottom:10px;">
+      <button onclick="setLanguage('en')">English</button>
+      <button onclick="setLanguage('hi')">हिन्दी</button>
+    </div>
 
     <div id="chat-box">
       <div id="messages"></div>
-      <!-- <form id="form">
-        <input id="input" type="text" placeholder="Ask something about your data..." required autocomplete="off" />
-        <button type="submit">Ask</button>
-      </form> -->
+
       <form id="form">
         <div style="display: flex; gap: 8px; width: 100%;">
-          <input 
-            id="input" 
-            type="text" 
-            placeholder="Ask something about your data..." 
-            required 
+          <input
+            id="input"
+            type="text"
+            required
             autocomplete="off"
             style="flex: 1;"
           />
-          
           <button type="button" id="mic-btn">🎙</button>
-          <button type="submit">Ask</button>
+          <button type="submit" id="ask-btn"></button>
         </div>
       </form>
     </div>
 
     <div id="result-section" class="hidden">
-      <h2>📊 Results</h2>
+      <h2 id="result-title"></h2>
       <div id="result-container"></div>
     </div>
   </div>
 
-  <script src="/static/script.js" defer></script>
+  <script src="/static/script.js"></script>
 </body>
 </html>

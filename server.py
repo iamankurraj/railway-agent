@@ -18,6 +18,7 @@ app.mount("/static",StaticFiles(directory=PUBLIC_DIR),name="static")
 class ChatInput(BaseModel):
     input:str
     thread_id:str|None=None
+    lang:str="en"
 
 @app.get("/",response_class=HTMLResponse)
 def index()->HTMLResponse:
@@ -58,6 +59,7 @@ async def invoke(payload: ChatInput):
     init_state: Dict[str, Any] = {
         "input": text,
         "messages": [HumanMessage(content=text)],
+        "lang": payload.lang
     }
 
     # Run the LangGraph pipeline
