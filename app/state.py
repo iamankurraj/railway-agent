@@ -7,8 +7,7 @@ class AgentState(BaseModel):
     messages: List[BaseMessage] = []
     input: str = ""
     intent: str = ""
-    params: Dict[str, Any] = {}   
-                                
+    params: Dict[str, Any] = {}                                   
     result: Any = None
     nl_output: str = ""
     lang: str = "en"

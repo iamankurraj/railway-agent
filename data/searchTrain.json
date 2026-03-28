@@ -12,7 +12,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-03-28"
     },
     {
       "train_number": "19001",
@@ -23,7 +24,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-03-29"
     },
     {
       "train_number": "19002",
@@ -34,7 +36,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-03-30"
     },
     {
       "train_number": "19003",
@@ -45,7 +48,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-03-31"
     },
     {
       "train_number": "19004",
@@ -56,7 +60,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-04-01"
     },
     {
       "train_number": "19005",
@@ -67,7 +72,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-04-02"
     },
     {
       "train_number": "19006",
@@ -78,7 +84,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-04-03"
     },
     {
       "train_number": "19007",
@@ -89,7 +96,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-04-04"
     },
     {
       "train_number": "19008",
@@ -100,7 +108,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-04-05"
     },
     {
       "train_number": "19009",
@@ -111,7 +120,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-04-06"
     },
     {
       "train_number": "19010",
@@ -122,7 +132,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-04-07"
     },
     {
       "train_number": "19011",
@@ -133,7 +144,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-04-08"
     },
     {
       "train_number": "19012",
@@ -144,7 +156,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-04-09"
     },
     {
       "train_number": "19013",
@@ -155,7 +168,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-04-10"
     },
     {
       "train_number": "19014",
@@ -166,7 +180,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-04-11"
     },
     {
       "train_number": "19015",
@@ -177,7 +192,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-04-12"
     },
     {
       "train_number": "19016",
@@ -188,7 +204,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-04-13"
     },
     {
       "train_number": "19017",
@@ -199,7 +216,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-04-14"
     },
     {
       "train_number": "19018",
@@ -210,7 +228,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "HWH",
-      "dstn_stn_name": "HOWRAH JN"
+      "dstn_stn_name": "HOWRAH JN",
+      "date": "2026-04-15"
     },
     {
       "train_number": "19019",
@@ -221,7 +240,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-04-16"
     },
     {
       "train_number": "19020",
@@ -232,7 +252,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-04-17"
     },
     {
       "train_number": "19021",
@@ -243,7 +264,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-04-18"
     },
     {
       "train_number": "19022",
@@ -254,7 +276,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-04-19"
     },
     {
       "train_number": "19023",
@@ -265,7 +288,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-04-20"
     },
     {
       "train_number": "19024",
@@ -276,7 +300,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-04-21"
     },
     {
       "train_number": "19025",
@@ -287,7 +312,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-04-22"
     },
     {
       "train_number": "19026",
@@ -298,7 +324,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-04-23"
     },
     {
       "train_number": "19027",
@@ -309,7 +336,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-04-24"
     },
     {
       "train_number": "19028",
@@ -320,7 +348,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-04-25"
     },
     {
       "train_number": "19029",
@@ -331,7 +360,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-04-26"
     },
     {
       "train_number": "19030",
@@ -342,7 +372,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-04-27"
     },
     {
       "train_number": "19031",
@@ -353,7 +384,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-04-28"
     },
     {
       "train_number": "19032",
@@ -364,7 +396,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "HWH",
-      "dstn_stn_name": "HOWRAH JN"
+      "dstn_stn_name": "HOWRAH JN",
+      "date": "2026-04-29"
     },
     {
       "train_number": "19033",
@@ -375,7 +408,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-04-30"
     },
     {
       "train_number": "19034",
@@ -386,7 +420,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-05-01"
     },
     {
       "train_number": "19035",
@@ -397,7 +432,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-05-02"
     },
     {
       "train_number": "19036",
@@ -408,7 +444,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-05-03"
     },
     {
       "train_number": "19037",
@@ -419,7 +456,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "HWH",
-      "dstn_stn_name": "HOWRAH JN"
+      "dstn_stn_name": "HOWRAH JN",
+      "date": "2026-05-04"
     },
     {
       "train_number": "19038",
@@ -430,7 +468,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-05-05"
     },
     {
       "train_number": "19039",
@@ -441,7 +480,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-05-06"
     },
     {
       "train_number": "19040",
@@ -452,7 +492,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "HWH",
-      "dstn_stn_name": "HOWRAH JN"
+      "dstn_stn_name": "HOWRAH JN",
+      "date": "2026-05-07"
     },
     {
       "train_number": "19041",
@@ -463,7 +504,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-05-08"
     },
     {
       "train_number": "19042",
@@ -474,7 +516,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-05-09"
     },
     {
       "train_number": "19043",
@@ -485,7 +528,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-05-10"
     },
     {
       "train_number": "19044",
@@ -496,7 +540,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-05-11"
     },
     {
       "train_number": "19045",
@@ -507,7 +552,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-05-12"
     },
     {
       "train_number": "19046",
@@ -518,7 +564,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-05-13"
     },
     {
       "train_number": "19047",
@@ -529,7 +576,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-05-14"
     },
     {
       "train_number": "19048",
@@ -540,7 +588,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-05-15"
     },
     {
       "train_number": "19049",
@@ -551,7 +600,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-05-16"
     },
     {
       "train_number": "19050",
@@ -562,7 +612,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-05-17"
     },
     {
       "train_number": "19051",
@@ -573,7 +624,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-05-18"
     },
     {
       "train_number": "19052",
@@ -584,7 +636,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-05-19"
     },
     {
       "train_number": "19053",
@@ -595,7 +648,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-05-20"
     },
     {
       "train_number": "19054",
@@ -606,7 +660,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-05-21"
     },
     {
       "train_number": "19055",
@@ -617,7 +672,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-05-22"
     },
     {
       "train_number": "19056",
@@ -628,7 +684,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-05-23"
     },
     {
       "train_number": "19057",
@@ -639,7 +696,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-05-24"
     },
     {
       "train_number": "19058",
@@ -650,7 +708,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-05-25"
     },
     {
       "train_number": "19059",
@@ -661,7 +720,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-05-26"
     },
     {
       "train_number": "19060",
@@ -672,7 +732,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-05-27"
     },
     {
       "train_number": "19061",
@@ -683,7 +744,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-05-28"
     },
     {
       "train_number": "19062",
@@ -694,7 +756,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-05-29"
     },
     {
       "train_number": "19063",
@@ -705,7 +768,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-05-30"
     },
     {
       "train_number": "19064",
@@ -716,7 +780,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-05-31"
     },
     {
       "train_number": "19065",
@@ -727,7 +792,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-06-01"
     },
     {
       "train_number": "19066",
@@ -738,7 +804,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-06-02"
     },
     {
       "train_number": "19067",
@@ -749,7 +816,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-06-03"
     },
     {
       "train_number": "19068",
@@ -760,7 +828,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-06-04"
     },
     {
       "train_number": "19069",
@@ -771,7 +840,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-06-05"
     },
     {
       "train_number": "19070",
@@ -782,7 +852,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-06-06"
     },
     {
       "train_number": "19071",
@@ -793,7 +864,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-06-07"
     },
     {
       "train_number": "19072",
@@ -804,7 +876,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-06-08"
     },
     {
       "train_number": "19073",
@@ -815,7 +888,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-06-09"
     },
     {
       "train_number": "19074",
@@ -826,7 +900,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-06-10"
     },
     {
       "train_number": "19075",
@@ -837,7 +912,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-06-11"
     },
     {
       "train_number": "19076",
@@ -848,7 +924,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-06-12"
     },
     {
       "train_number": "19077",
@@ -859,7 +936,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-06-13"
     },
     {
       "train_number": "19078",
@@ -870,7 +948,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-06-14"
     },
     {
       "train_number": "19079",
@@ -881,7 +960,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-06-15"
     },
     {
       "train_number": "19080",
@@ -892,7 +972,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-06-16"
     },
     {
       "train_number": "19081",
@@ -903,7 +984,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-06-17"
     },
     {
       "train_number": "19082",
@@ -914,7 +996,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-06-18"
     },
     {
       "train_number": "19083",
@@ -925,7 +1008,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-06-19"
     },
     {
       "train_number": "19084",
@@ -936,7 +1020,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-06-20"
     },
     {
       "train_number": "19085",
@@ -947,7 +1032,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-06-21"
     },
     {
       "train_number": "19086",
@@ -958,7 +1044,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-06-22"
     },
     {
       "train_number": "19087",
@@ -969,7 +1056,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-06-23"
     },
     {
       "train_number": "19088",
@@ -980,7 +1068,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-06-24"
     },
     {
       "train_number": "19089",
@@ -991,7 +1080,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-06-25"
     },
     {
       "train_number": "19090",
@@ -1002,7 +1092,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-06-26"
     },
     {
       "train_number": "19091",
@@ -1013,7 +1104,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-06-27"
     },
     {
       "train_number": "19092",
@@ -1024,7 +1116,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-06-28"
     },
     {
       "train_number": "19093",
@@ -1035,7 +1128,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-06-29"
     },
     {
       "train_number": "19094",
@@ -1046,7 +1140,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-06-30"
     },
     {
       "train_number": "19095",
@@ -1057,7 +1152,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-07-01"
     },
     {
       "train_number": "19096",
@@ -1068,7 +1164,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-07-02"
     },
     {
       "train_number": "19097",
@@ -1079,7 +1176,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-07-03"
     },
     {
       "train_number": "19098",
@@ -1090,7 +1188,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-07-04"
     },
     {
       "train_number": "19099",
@@ -1101,7 +1200,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-07-05"
     },
     {
       "train_number": "19100",
@@ -1112,7 +1212,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-07-06"
     },
     {
       "train_number": "19101",
@@ -1123,7 +1224,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-07-07"
     },
     {
       "train_number": "19102",
@@ -1134,7 +1236,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-07-08"
     },
     {
       "train_number": "19103",
@@ -1145,7 +1248,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-07-09"
     },
     {
       "train_number": "19104",
@@ -1156,7 +1260,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-07-10"
     },
     {
       "train_number": "19105",
@@ -1167,7 +1272,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-07-11"
     },
     {
       "train_number": "19106",
@@ -1178,7 +1284,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-07-12"
     },
     {
       "train_number": "19107",
@@ -1189,7 +1296,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-07-13"
     },
     {
       "train_number": "19108",
@@ -1200,7 +1308,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-07-14"
     },
     {
       "train_number": "19109",
@@ -1211,7 +1320,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-07-15"
     },
     {
       "train_number": "19110",
@@ -1222,7 +1332,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-07-16"
     },
     {
       "train_number": "19111",
@@ -1233,7 +1344,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-07-17"
     },
     {
       "train_number": "19112",
@@ -1244,7 +1356,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-07-18"
     },
     {
       "train_number": "19113",
@@ -1255,7 +1368,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-07-19"
     },
     {
       "train_number": "19114",
@@ -1266,7 +1380,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-07-20"
     },
     {
       "train_number": "19115",
@@ -1277,7 +1392,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-07-21"
     },
     {
       "train_number": "19116",
@@ -1288,7 +1404,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-07-22"
     },
     {
       "train_number": "19117",
@@ -1299,7 +1416,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-07-23"
     },
     {
       "train_number": "19118",
@@ -1310,7 +1428,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-07-24"
     },
     {
       "train_number": "19119",
@@ -1321,7 +1440,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-07-25"
     },
     {
       "train_number": "19120",
@@ -1332,7 +1452,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-07-26"
     },
     {
       "train_number": "19121",
@@ -1343,7 +1464,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-07-27"
     },
     {
       "train_number": "19122",
@@ -1354,7 +1476,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-07-28"
     },
     {
       "train_number": "19123",
@@ -1365,7 +1488,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-07-29"
     },
     {
       "train_number": "19124",
@@ -1376,7 +1500,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-07-30"
     },
     {
       "train_number": "19125",
@@ -1387,7 +1512,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "HWH",
-      "dstn_stn_name": "HOWRAH JN"
+      "dstn_stn_name": "HOWRAH JN",
+      "date": "2026-07-31"
     },
     {
       "train_number": "19126",
@@ -1398,7 +1524,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-08-01"
     },
     {
       "train_number": "19127",
@@ -1409,7 +1536,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-08-02"
     },
     {
       "train_number": "19128",
@@ -1420,7 +1548,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-08-03"
     },
     {
       "train_number": "19129",
@@ -1431,7 +1560,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-08-04"
     },
     {
       "train_number": "19130",
@@ -1442,7 +1572,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-08-05"
     },
     {
       "train_number": "19131",
@@ -1453,7 +1584,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-08-06"
     },
     {
       "train_number": "19132",
@@ -1464,7 +1596,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-08-07"
     },
     {
       "train_number": "19133",
@@ -1475,7 +1608,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-08-08"
     },
     {
       "train_number": "19134",
@@ -1486,7 +1620,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-08-09"
     },
     {
       "train_number": "19135",
@@ -1497,7 +1632,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-08-10"
     },
     {
       "train_number": "19136",
@@ -1508,7 +1644,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-08-11"
     },
     {
       "train_number": "19137",
@@ -1519,7 +1656,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-08-12"
     },
     {
       "train_number": "19138",
@@ -1530,7 +1668,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-08-13"
     },
     {
       "train_number": "19139",
@@ -1541,7 +1680,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-08-14"
     },
     {
       "train_number": "19140",
@@ -1552,7 +1692,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-08-15"
     },
     {
       "train_number": "19141",
@@ -1563,7 +1704,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-08-16"
     },
     {
       "train_number": "19142",
@@ -1574,7 +1716,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-08-17"
     },
     {
       "train_number": "19143",
@@ -1585,7 +1728,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-08-18"
     },
     {
       "train_number": "19144",
@@ -1596,7 +1740,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-08-19"
     },
     {
       "train_number": "19145",
@@ -1607,7 +1752,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-08-20"
     },
     {
       "train_number": "19146",
@@ -1618,7 +1764,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-08-21"
     },
     {
       "train_number": "19147",
@@ -1629,7 +1776,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-08-22"
     },
     {
       "train_number": "19148",
@@ -1640,7 +1788,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-08-23"
     },
     {
       "train_number": "19149",
@@ -1651,7 +1800,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-08-24"
     },
     {
       "train_number": "19150",
@@ -1662,7 +1812,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-08-25"
     },
     {
       "train_number": "19151",
@@ -1673,7 +1824,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-08-26"
     },
     {
       "train_number": "19152",
@@ -1684,7 +1836,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-08-27"
     },
     {
       "train_number": "19153",
@@ -1695,7 +1848,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-08-28"
     },
     {
       "train_number": "19154",
@@ -1706,7 +1860,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "HWH",
-      "dstn_stn_name": "HOWRAH JN"
+      "dstn_stn_name": "HOWRAH JN",
+      "date": "2026-08-29"
     },
     {
       "train_number": "19155",
@@ -1717,7 +1872,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-08-30"
     },
     {
       "train_number": "19156",
@@ -1728,7 +1884,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-08-31"
     },
     {
       "train_number": "19157",
@@ -1739,7 +1896,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-09-01"
     },
     {
       "train_number": "19158",
@@ -1750,7 +1908,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-09-02"
     },
     {
       "train_number": "19159",
@@ -1761,7 +1920,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-09-03"
     },
     {
       "train_number": "19160",
@@ -1772,7 +1932,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-09-04"
     },
     {
       "train_number": "19161",
@@ -1783,7 +1944,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-09-05"
     },
     {
       "train_number": "19162",
@@ -1794,7 +1956,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-09-06"
     },
     {
       "train_number": "19163",
@@ -1805,7 +1968,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-09-07"
     },
     {
       "train_number": "19164",
@@ -1816,7 +1980,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-09-08"
     },
     {
       "train_number": "19165",
@@ -1827,7 +1992,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-09-09"
     },
     {
       "train_number": "19166",
@@ -1838,7 +2004,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-09-10"
     },
     {
       "train_number": "19167",
@@ -1849,7 +2016,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-09-11"
     },
     {
       "train_number": "19168",
@@ -1860,7 +2028,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "HWH",
-      "dstn_stn_name": "HOWRAH JN"
+      "dstn_stn_name": "HOWRAH JN",
+      "date": "2026-09-12"
     },
     {
       "train_number": "19169",
@@ -1871,7 +2040,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-09-13"
     },
     {
       "train_number": "19170",
@@ -1882,7 +2052,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-09-14"
     },
     {
       "train_number": "19171",
@@ -1893,7 +2064,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-09-15"
     },
     {
       "train_number": "19172",
@@ -1904,7 +2076,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-09-16"
     },
     {
       "train_number": "19173",
@@ -1915,7 +2088,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-09-17"
     },
     {
       "train_number": "19174",
@@ -1926,7 +2100,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-09-18"
     },
     {
       "train_number": "19175",
@@ -1937,7 +2112,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-09-19"
     },
     {
       "train_number": "19176",
@@ -1948,7 +2124,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-09-20"
     },
     {
       "train_number": "19177",
@@ -1959,7 +2136,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-09-21"
     },
     {
       "train_number": "19178",
@@ -1970,7 +2148,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-09-22"
     },
     {
       "train_number": "19179",
@@ -1981,7 +2160,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-09-23"
     },
     {
       "train_number": "19180",
@@ -1992,7 +2172,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-09-24"
     },
     {
       "train_number": "19181",
@@ -2003,7 +2184,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-09-25"
     },
     {
       "train_number": "19182",
@@ -2014,7 +2196,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-09-26"
     },
     {
       "train_number": "19183",
@@ -2025,7 +2208,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "BCT",
-      "dstn_stn_name": "MUMBAI CENTRAL"
+      "dstn_stn_name": "MUMBAI CENTRAL",
+      "date": "2026-09-27"
     },
     {
       "train_number": "19184",
@@ -2036,7 +2220,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-09-28"
     },
     {
       "train_number": "19185",
@@ -2047,7 +2232,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-09-29"
     },
     {
       "train_number": "19186",
@@ -2058,7 +2244,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "BBS",
-      "dstn_stn_name": "BHUBANESWAR"
+      "dstn_stn_name": "BHUBANESWAR",
+      "date": "2026-09-30"
     },
     {
       "train_number": "19187",
@@ -2069,7 +2256,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "HWH",
-      "dstn_stn_name": "HOWRAH JN"
+      "dstn_stn_name": "HOWRAH JN",
+      "date": "2026-10-01"
     },
     {
       "train_number": "19188",
@@ -2080,7 +2268,8 @@
       "src_stn_code": "LKO",
       "src_stn_name": "LUCKNOW NR",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-10-02"
     },
     {
       "train_number": "19189",
@@ -2091,7 +2280,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-10-03"
     },
     {
       "train_number": "19190",
@@ -2102,7 +2292,8 @@
       "src_stn_code": "MAS",
       "src_stn_name": "CHENNAI CENTRAL",
       "dstn_stn_code": "PUNE",
-      "dstn_stn_name": "PUNE JN"
+      "dstn_stn_name": "PUNE JN",
+      "date": "2026-10-04"
     },
     {
       "train_number": "19191",
@@ -2113,7 +2304,8 @@
       "src_stn_code": "BBS",
       "src_stn_name": "BHUBANESWAR",
       "dstn_stn_code": "ADI",
-      "dstn_stn_name": "AHMEDABAD JN"
+      "dstn_stn_name": "AHMEDABAD JN",
+      "date": "2026-10-05"
     },
     {
       "train_number": "19192",
@@ -2124,7 +2316,8 @@
       "src_stn_code": "ADI",
       "src_stn_name": "AHMEDABAD JN",
       "dstn_stn_code": "HYB",
-      "dstn_stn_name": "HYDERABAD DECCAN"
+      "dstn_stn_name": "HYDERABAD DECCAN",
+      "date": "2026-10-06"
     },
     {
       "train_number": "19193",
@@ -2135,7 +2328,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-10-07"
     },
     {
       "train_number": "19194",
@@ -2146,7 +2340,8 @@
       "src_stn_code": "HWH",
       "src_stn_name": "HOWRAH JN",
       "dstn_stn_code": "SBC",
-      "dstn_stn_name": "KSR BENGALURU"
+      "dstn_stn_name": "KSR BENGALURU",
+      "date": "2026-10-08"
     },
     {
       "train_number": "19195",
@@ -2157,7 +2352,8 @@
       "src_stn_code": "NDLS",
       "src_stn_name": "NEW DELHI",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-10-09"
     },
     {
       "train_number": "19196",
@@ -2168,7 +2364,8 @@
       "src_stn_code": "PUNE",
       "src_stn_name": "PUNE JN",
       "dstn_stn_code": "MAS",
-      "dstn_stn_name": "CHENNAI CENTRAL"
+      "dstn_stn_name": "CHENNAI CENTRAL",
+      "date": "2026-10-10"
     },
     {
       "train_number": "19197",
@@ -2179,7 +2376,8 @@
       "src_stn_code": "HYB",
       "src_stn_name": "HYDERABAD DECCAN",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-10-11"
     },
     {
       "train_number": "19198",
@@ -2190,7 +2388,8 @@
       "src_stn_code": "BCT",
       "src_stn_name": "MUMBAI CENTRAL",
       "dstn_stn_code": "LKO",
-      "dstn_stn_name": "LUCKNOW NR"
+      "dstn_stn_name": "LUCKNOW NR",
+      "date": "2026-10-12"
     },
     {
       "train_number": "19199",
@@ -2201,7 +2400,8 @@
       "src_stn_code": "SBC",
       "src_stn_name": "KSR BENGALURU",
       "dstn_stn_code": "NDLS",
-      "dstn_stn_name": "NEW DELHI"
+      "dstn_stn_name": "NEW DELHI",
+      "date": "2026-10-13"
     }
   ]
 }

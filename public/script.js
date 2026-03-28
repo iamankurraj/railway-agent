@@ -27,6 +27,20 @@ const translations = {
     date: "तारीख",
     time: "समय",
     classes: "क्लास"
+  },
+  mr: {
+    title: "🚄 स्मार्ट रेल्वे चौकशी प्रणाली",
+    placeholder: "रेल्वेबद्दल विचारा...",
+    ask: "विचारा",
+    results: "📊 निकाल",
+    listening: "🎧 ऐकत आहे...",
+    no_trains: "🚫 कोणतीही ट्रेन सापडली नाही",
+    train_id: "ट्रेन आयडी",
+    name: "नाव",
+    route: "प्रस्थान → गंतव्य",
+    date: "तारीख",
+    time: "वेळ",
+    classes: "वर्ग"
   }
 };
 
@@ -41,15 +55,26 @@ function applyTranslations() {
   document.getElementById("result-title").innerText = t.results;
 }
 
+// function setLanguage(lang) {
+//   currentLang = lang;
+//   localStorage.setItem("lang", lang);
+//   applyTranslations();
+//   if (typeof recognition !== "undefined" && recognition) {
+//     recognition.lang = currentLang === "hi" ? "hi-IN" : "en-IN";
+//   }
+// }
+
 function setLanguage(lang) {
   currentLang = lang;
   localStorage.setItem("lang", lang);
   applyTranslations();
   if (typeof recognition !== "undefined" && recognition) {
-    recognition.lang = currentLang === "hi" ? "hi-IN" : "en-IN";
+    // ADD "mr" case
+    recognition.lang = currentLang === "hi" ? "hi-IN"
+                     : currentLang === "mr" ? "mr-IN"
+                     : "en-IN";
   }
 }
-
 // ================= SIDEBAR TOGGLE =================
 let sidebarOpen = true;
 
@@ -367,7 +392,10 @@ if (SpeechRecognition) {
   recognition = new SpeechRecognition();
   recognition.continuous = false;
   recognition.interimResults = false;
-  recognition.lang = currentLang === "hi" ? "hi-IN" : "en-IN";
+  // recognition.lang = currentLang === "hi" ? "hi-IN" : "en-IN";
+  recognition.lang = currentLang === "hi" ? "hi-IN"
+                 : currentLang === "mr" ? "mr-IN"
+                 : "en-IN";
 
   micBtn.addEventListener("click", () => {
     if (isListening) return;

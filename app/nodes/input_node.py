@@ -5,7 +5,6 @@ from app.state import AgentState
 print("USING UPDATED input_node.py")
 
 # Known city/station names to help with multi-word matching
-# Add more as needed for your dataset
 KNOWN_CITIES = [
     "new delhi", "old delhi", "delhi", "mumbai", "pune", "chennai", "kolkata",
     "bangalore", "bengaluru", "hyderabad", "ahmedabad", "jaipur", "lucknow",
@@ -92,8 +91,6 @@ def run(state: AgentState) -> AgentState:
     params = extract_params(text)
     print(f"⚙️ [input_node] Extracted params: {params}")
 
-    # Set a lightweight intent hint — LLM node will refine this
-    # We only do a rough split here; the LLM has the final say
     railway_keywords = [
         "train", "trains", "from", "to", "between", "depart", "arrive",
         "ticket", "fare", "class", "sleeper", "ac", "seat", "route",

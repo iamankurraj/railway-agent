@@ -7,7 +7,7 @@ def run(state: AgentState) -> AgentState:
     params = state.get("params", {}) or {}
 
     # === Load fare dataset ===
-    data = load_json("fares.json")["fares"]
+    data = load_json("getFare.json")["fares"]
     results = []
 
     class_type = None

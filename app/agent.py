@@ -1,8 +1,17 @@
 from langgraph.graph import StateGraph, END
 from langchain_core.messages import HumanMessage
 from app.state import AgentState
-from app.nodes import input_node, llm_node, query_node, response_node   # 🧠 added llm_node
+from app.nodes import input_node, llm_node, query_node, fare_query_node, response_node  
 from app.audio_search import listen_once
+
+def route_to_query_or_fare(state):
+    """Route based on intent: price_query goes to fare_query, others go to query_node"""
+    intent = getattr(state, "intent", "search_trains")
+    if intent == "price_query":
+        return "fare_query"
+    else:
+        return "query"
+
 def build_graph():
     graph = StateGraph(AgentState)
 
@@ -10,13 +19,25 @@ def build_graph():
     graph.add_node("input", input_node.run)
     graph.add_node("llm", llm_node.run)            
     graph.add_node("query", query_node.run)
+    graph.add_node("fare_query", fare_query_node.run)
     graph.add_node("respond", response_node.run)
 
     # Define flow
     graph.set_entry_point("input")
-    graph.add_edge("input", "llm")                 
-    graph.add_edge("llm", "query")                 
+    graph.add_edge("input", "llm")
+    
+    # Conditional routing: if price_query → fare_query, else → query
+    graph.add_conditional_edges(
+        "llm",
+        route_to_query_or_fare,
+        {
+            "fare_query": "fare_query",
+            "query": "query",
+        }
+    )
+    
     graph.add_edge("query", "respond")
+    graph.add_edge("fare_query", "respond")
     graph.add_edge("respond", END)
 
     return graph.compile()

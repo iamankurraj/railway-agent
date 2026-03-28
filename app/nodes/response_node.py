@@ -15,14 +15,14 @@ def _summarize_locally(user_query: str, data: Any) -> str:
     return json.dumps(data, ensure_ascii=False, indent=2)
 
 def run(state: AgentState) -> AgentState:
-    # 🩹 Convert Pydantic model → dict for safe access
+    # Convert Pydantic model → dict for safe access
     state_dict = state.dict()
 
     messages = state_dict.get("messages", [])
     result = state_dict.get("result", [])
     nl_output = state_dict.get("nl_output", "")
 
-    # 🧠 Build a natural language response if not already provided
+    # Build a natural language response if not already provided
     if not nl_output:
         if not result:
             nl_output = "No results found for your query."
@@ -31,16 +31,19 @@ def run(state: AgentState) -> AgentState:
         else:
             nl_output = "Got some results."
 
-    # 🌐 Dynamic LLM Translation for Hindi (Translates JSON values and nl_output)
+    # Dynamic LLM Translation for Multiple Languages (Translates JSON values and nl_output)
     lang = state_dict.get("lang", "en")
-    if lang == "hi" and result:
+    lang_names = {"hi": "Hindi", "mr": "Marathi"}  # extend as needed
+    
+    if lang in lang_names and result:
+        lang_label = lang_names[lang]
         try:
             llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
             translation_prompt = (
-                "You are an expert translator. The user requested Hindi. "
-                "1. Translate the 'nl_output' string into Hindi.\n"
-                "2. Translate all string values (like city names, train names, classes, info messages) "
-                "inside the 'result' JSON array into Hindi. DO NOT translate the JSON keys.\n"
+                f"You are an expert translator. The user requested {lang_label}. "
+                f"1. Translate the 'nl_output' string into {lang_label}.\n"
+                f"2. Translate all string values (like city names, train names, classes, info messages) "
+                f"inside the 'result' JSON array into {lang_label}. DO NOT translate the JSON keys.\n"
                 "Return ONLY a valid JSON object with keys 'nl_output' and 'result'."
             )
             payload = json.dumps({"nl_output": nl_output, "result": result}, ensure_ascii=False)
@@ -55,9 +58,9 @@ def run(state: AgentState) -> AgentState:
                 nl_output = translated.get("nl_output", nl_output)
                 result = translated.get("result", result)
         except Exception as e:
-            print(f"⚠️ Translation error: {e}")
+            print(f"Translation error: {e}")
 
-    # ✅ Assign back to AgentState attributes (not dict indexing)
+    # Assign back to AgentState attributes
     state.nl_output = nl_output
     state.result = result
     return state

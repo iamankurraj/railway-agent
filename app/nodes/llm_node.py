@@ -34,10 +34,22 @@ IMPORTANT RULES:
 - "When does the train leave?" is schedule_query.
 - Only use out_of_domain for things like "What is 2+2?" or "What's the weather?"
 
+LANGUAGE CONVERSION:
+- If the query is in Hindi/Marathi/any other language, ALWAYS convert city/station names to their ENGLISH equivalents.
+- Examples:
+  * "पुणे" (Marathi) → "pune"
+  * "मुंबई" (Hindi/Marathi) → "mumbai"
+  * "दिल्ली" (Hindi) → "delhi"
+  * "बेंगलुरु" (Hindi/Marathi) → "bangalore"
+  * "हैदराबाद" (Hindi) → "hyderabad"
+  * "चेन्नई" (Hindi) → "chennai"
+  * "कोलकाता" (Hindi) → "kolkata"
+  * "जयपुर" (Hindi) → "jaipur"
+
 Extract these fields (use null if not mentioned):
 - intent: string (from list above)
-- origin: string (city/station name, lowercase)
-- destination: string (city/station name, lowercase)
+- origin: string (city/station name in ENGLISH, lowercase) ← ALWAYS CONVERT
+- destination: string (city/station name in ENGLISH, lowercase) ← ALWAYS CONVERT
 - class_name: string (e.g. "sleeper", "ac 2-tier", "ac 3-tier", "ac chair car", "second sitting")
 - min_price: number or null
 - max_price: number or null
@@ -62,7 +74,7 @@ def run(state: AgentState) -> AgentState:
 
     try:
         response = llm.invoke(messages).content
-        logger.info("🧠 LLM raw output: %s", response)
+        logger.info("LLM raw output: %s", response)
 
         # Strip markdown code fences if present
         clean = re.sub(r"```(?:json)?|```", "", response).strip()
@@ -70,7 +82,7 @@ def run(state: AgentState) -> AgentState:
         parsed = json.loads(match.group(0)) if match else {}
 
     except Exception as e:
-        logger.warning("⚠️ LLM parse failed: %s", e)
+        logger.warning("LLM parse failed: %s", e)
         # Safe fallback — assume train search and let query_node handle it
         parsed = {"intent": "search_trains"}
 
@@ -84,5 +96,5 @@ def run(state: AgentState) -> AgentState:
     state.params = merged_params
     state.intent = parsed.get("intent", state.intent or "search_trains")
 
-    print(f"🧠 LLM → intent={state.intent}, params={state.params}")
+    print(f"LLM → intent={state.intent}, params={state.params}")
     return state
