@@ -55,22 +55,48 @@ Extract these fields (use null if not mentioned):
 - max_price: number or null
 - date: string or null (e.g. "2025-11-05", or relative like "tomorrow", "today")
 - train_number: string or null
+- passenger_name: string or null
+
+If the user is asking to make a reservation or confirm booking, use intent "book_train".
 
 Return ONLY a valid JSON object, no explanation, no markdown.
 """
 
 def run(state: AgentState) -> AgentState:
     """LLM reasoning node — interprets user intent and fills query params."""
+    state_dict = state.dict()
     user_query = state.input or ""
 
     if not user_query:
         state.intent = "general_info"
         return state
 
+    previous_response = state_dict.get("nl_output", "")
+    previous_result = state_dict.get("result")
+    followup_stage = state_dict.get("followup_stage")
+    pending_booking = state_dict.get("pending_booking")
+    assistant_content = ""
+    if previous_response:
+        assistant_content += f"Previous response: {previous_response}\n"
+    if previous_result is not None:
+        try:
+            assistant_content += f"Previous result: {json.dumps(previous_result, ensure_ascii=False)}\n"
+        except Exception:
+            assistant_content += "Previous result: (unserializable)\n"
+    if pending_booking:
+        try:
+            assistant_content += f"Pending booking: {json.dumps(pending_booking, ensure_ascii=False)}\n"
+        except Exception:
+            assistant_content += "Pending booking: (unserializable)\n"
+    if followup_stage:
+        assistant_content += f"Followup stage: {followup_stage}\n"
+
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT},
-        {"role": "user", "content": user_query}
     ]
+    if assistant_content:
+        messages.append({"role": "assistant", "content": assistant_content})
+    messages.append({"role": "user", "content": user_query})
 
     try:
         response = llm.invoke(messages).content
@@ -96,5 +122,5 @@ def run(state: AgentState) -> AgentState:
     state.params = merged_params
     state.intent = parsed.get("intent", state.intent or "search_trains")
 
-    print(f"LLM → intent={state.intent}, params={state.params}")
+    print(f"LLM -> intent={state.intent}, params={state.params}")
     return state

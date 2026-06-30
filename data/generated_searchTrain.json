@@ -13,7 +13,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-22"
     },
     {
       "train_number": "1001",
@@ -25,7 +25,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-13"
     },
     {
       "train_number": "1002",
@@ -37,7 +37,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-03"
     },
     {
       "train_number": "1003",
@@ -49,7 +49,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-12"
     },
     {
       "train_number": "1004",
@@ -61,7 +61,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-22"
     },
     {
       "train_number": "1005",
@@ -73,7 +73,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-22"
     },
     {
       "train_number": "1006",
@@ -85,7 +85,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1007",
@@ -97,7 +97,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-13"
     },
     {
       "train_number": "1008",
@@ -109,7 +109,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-06"
     },
     {
       "train_number": "1009",
@@ -121,7 +121,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-19"
     },
     {
       "train_number": "1010",
@@ -133,7 +133,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-14"
     },
     {
       "train_number": "1011",
@@ -145,7 +145,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1012",
@@ -157,7 +157,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-16"
     },
     {
       "train_number": "1013",
@@ -169,7 +169,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-03"
     },
     {
       "train_number": "1014",
@@ -181,7 +181,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-03-31"
     },
     {
       "train_number": "1015",
@@ -193,7 +193,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-11"
     },
     {
       "train_number": "1016",
@@ -205,7 +205,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-28"
     },
     {
       "train_number": "1017",
@@ -217,7 +217,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-20"
     },
     {
       "train_number": "1018",
@@ -229,7 +229,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1019",
@@ -241,7 +241,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-24"
     },
     {
       "train_number": "1020",
@@ -253,7 +253,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-26"
     },
     {
       "train_number": "1021",
@@ -265,7 +265,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-02"
     },
     {
       "train_number": "1022",
@@ -277,7 +277,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-24"
     },
     {
       "train_number": "1023",
@@ -289,7 +289,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-17"
     },
     {
       "train_number": "1024",
@@ -301,7 +301,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-13"
     },
     {
       "train_number": "1025",
@@ -313,7 +313,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-15"
     },
     {
       "train_number": "1026",
@@ -325,7 +325,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-04"
     },
     {
       "train_number": "1027",
@@ -337,7 +337,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-25"
     },
     {
       "train_number": "1028",
@@ -349,7 +349,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-18"
     },
     {
       "train_number": "1029",
@@ -361,7 +361,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1030",
@@ -373,7 +373,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-21"
     },
     {
       "train_number": "1031",
@@ -385,7 +385,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1032",
@@ -397,7 +397,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1033",
@@ -409,7 +409,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-17"
     },
     {
       "train_number": "1034",
@@ -421,7 +421,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-08"
     },
     {
       "train_number": "1035",
@@ -433,7 +433,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-24"
     },
     {
       "train_number": "1036",
@@ -445,7 +445,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-08"
     },
     {
       "train_number": "1037",
@@ -457,7 +457,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-11"
     },
     {
       "train_number": "1038",
@@ -469,7 +469,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-14"
     },
     {
       "train_number": "1039",
@@ -481,7 +481,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-24"
     },
     {
       "train_number": "1040",
@@ -493,7 +493,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-11"
     },
     {
       "train_number": "1041",
@@ -505,7 +505,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-26"
     },
     {
       "train_number": "1042",
@@ -517,7 +517,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-19"
     },
     {
       "train_number": "1043",
@@ -529,7 +529,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-17"
     },
     {
       "train_number": "1044",
@@ -541,7 +541,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-21"
     },
     {
       "train_number": "1045",
@@ -553,7 +553,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-14"
     },
     {
       "train_number": "1046",
@@ -565,7 +565,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-26"
     },
     {
       "train_number": "1047",
@@ -577,7 +577,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-02"
     },
     {
       "train_number": "1048",
@@ -589,7 +589,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1049",
@@ -601,7 +601,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1050",
@@ -613,7 +613,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-07"
     },
     {
       "train_number": "1051",
@@ -625,7 +625,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-01"
     },
     {
       "train_number": "1052",
@@ -637,7 +637,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-11"
     },
     {
       "train_number": "1053",
@@ -649,7 +649,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-14"
     },
     {
       "train_number": "1054",
@@ -661,7 +661,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-27"
     },
     {
       "train_number": "1055",
@@ -673,7 +673,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-31"
     },
     {
       "train_number": "1056",
@@ -685,7 +685,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-27"
     },
     {
       "train_number": "1057",
@@ -697,7 +697,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-02"
     },
     {
       "train_number": "1058",
@@ -709,7 +709,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-27"
     },
     {
       "train_number": "1059",
@@ -721,7 +721,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-24"
     },
     {
       "train_number": "1060",
@@ -733,7 +733,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-01"
     },
     {
       "train_number": "1061",
@@ -745,7 +745,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-14"
     },
     {
       "train_number": "1062",
@@ -757,7 +757,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1063",
@@ -769,7 +769,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-03-31"
     },
     {
       "train_number": "1064",
@@ -781,7 +781,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-22"
     },
     {
       "train_number": "1065",
@@ -793,7 +793,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-15"
     },
     {
       "train_number": "1066",
@@ -805,7 +805,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1067",
@@ -817,7 +817,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-03-31"
     },
     {
       "train_number": "1068",
@@ -829,7 +829,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-01"
     },
     {
       "train_number": "1069",
@@ -841,7 +841,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-13"
     },
     {
       "train_number": "1070",
@@ -853,7 +853,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-11"
     },
     {
       "train_number": "1071",
@@ -865,7 +865,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1072",
@@ -877,7 +877,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-06"
     },
     {
       "train_number": "1073",
@@ -889,7 +889,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-28"
     },
     {
       "train_number": "1074",
@@ -901,7 +901,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-27"
     },
     {
       "train_number": "1075",
@@ -913,7 +913,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-07"
     },
     {
       "train_number": "1076",
@@ -925,7 +925,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-08"
     },
     {
       "train_number": "1077",
@@ -937,7 +937,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-10"
     },
     {
       "train_number": "1078",
@@ -949,7 +949,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-29"
     },
     {
       "train_number": "1079",
@@ -961,7 +961,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-06"
     },
     {
       "train_number": "1080",
@@ -973,7 +973,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-12"
     },
     {
       "train_number": "1081",
@@ -985,7 +985,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1082",
@@ -997,7 +997,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-01"
     },
     {
       "train_number": "1083",
@@ -1009,7 +1009,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-21"
     },
     {
       "train_number": "1084",
@@ -1021,7 +1021,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-24"
     },
     {
       "train_number": "1085",
@@ -1033,7 +1033,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-02"
     },
     {
       "train_number": "1086",
@@ -1045,7 +1045,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-26"
     },
     {
       "train_number": "1087",
@@ -1057,7 +1057,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1088",
@@ -1069,7 +1069,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-18"
     },
     {
       "train_number": "1089",
@@ -1081,7 +1081,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1090",
@@ -1093,7 +1093,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-19"
     },
     {
       "train_number": "1091",
@@ -1105,7 +1105,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-28"
     },
     {
       "train_number": "1092",
@@ -1117,7 +1117,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-01"
     },
     {
       "train_number": "1093",
@@ -1129,7 +1129,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1094",
@@ -1141,7 +1141,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-21"
     },
     {
       "train_number": "1095",
@@ -1153,7 +1153,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-16"
     },
     {
       "train_number": "1096",
@@ -1165,7 +1165,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-11"
     },
     {
       "train_number": "1097",
@@ -1177,7 +1177,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-03-31"
     },
     {
       "train_number": "1098",
@@ -1189,7 +1189,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-09"
     },
     {
       "train_number": "1099",
@@ -1201,7 +1201,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-24"
     },
     {
       "train_number": "1100",
@@ -1213,7 +1213,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1101",
@@ -1225,7 +1225,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-06"
     },
     {
       "train_number": "1102",
@@ -1237,7 +1237,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-22"
     },
     {
       "train_number": "1103",
@@ -1249,7 +1249,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-04-14"
     },
     {
       "train_number": "1104",
@@ -1261,7 +1261,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-24"
     },
     {
       "train_number": "1105",
@@ -1273,7 +1273,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1106",
@@ -1285,7 +1285,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-24"
     },
     {
       "train_number": "1107",
@@ -1297,7 +1297,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-18"
     },
     {
       "train_number": "1108",
@@ -1309,7 +1309,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-16"
     },
     {
       "train_number": "1109",
@@ -1321,7 +1321,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-13"
     },
     {
       "train_number": "1110",
@@ -1333,7 +1333,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-13"
     },
     {
       "train_number": "1111",
@@ -1345,7 +1345,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-22"
     },
     {
       "train_number": "1112",
@@ -1357,7 +1357,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-22"
     },
     {
       "train_number": "1113",
@@ -1369,7 +1369,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-25"
     },
     {
       "train_number": "1114",
@@ -1381,7 +1381,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-03"
     },
     {
       "train_number": "1115",
@@ -1393,7 +1393,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-03"
     },
     {
       "train_number": "1116",
@@ -1405,7 +1405,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-18"
     },
     {
       "train_number": "1117",
@@ -1417,7 +1417,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-04"
     },
     {
       "train_number": "1118",
@@ -1429,7 +1429,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-17"
     },
     {
       "train_number": "1119",
@@ -1441,7 +1441,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-14"
     },
     {
       "train_number": "1120",
@@ -1453,7 +1453,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-24"
     },
     {
       "train_number": "1121",
@@ -1465,7 +1465,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-27"
     },
     {
       "train_number": "1122",
@@ -1477,7 +1477,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-13"
     },
     {
       "train_number": "1123",
@@ -1489,7 +1489,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-04"
     },
     {
       "train_number": "1124",
@@ -1501,7 +1501,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-17"
     },
     {
       "train_number": "1125",
@@ -1513,7 +1513,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-14"
     },
     {
       "train_number": "1126",
@@ -1525,7 +1525,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-10"
     },
     {
       "train_number": "1127",
@@ -1537,7 +1537,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-10"
     },
     {
       "train_number": "1128",
@@ -1549,7 +1549,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-22"
     },
     {
       "train_number": "1129",
@@ -1561,7 +1561,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-10"
     },
     {
       "train_number": "1130",
@@ -1573,7 +1573,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-28"
     },
     {
       "train_number": "1131",
@@ -1585,7 +1585,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-06"
     },
     {
       "train_number": "1132",
@@ -1597,7 +1597,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-10"
     },
     {
       "train_number": "1133",
@@ -1609,7 +1609,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-24"
     },
     {
       "train_number": "1134",
@@ -1621,7 +1621,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-04-02"
     },
     {
       "train_number": "1135",
@@ -1633,7 +1633,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-29"
     },
     {
       "train_number": "1136",
@@ -1645,7 +1645,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-19"
     },
     {
       "train_number": "1137",
@@ -1657,7 +1657,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1138",
@@ -1669,7 +1669,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-16"
     },
     {
       "train_number": "1139",
@@ -1681,7 +1681,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-20"
     },
     {
       "train_number": "1140",
@@ -1693,7 +1693,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-16"
     },
     {
       "train_number": "1141",
@@ -1705,7 +1705,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-03-29"
     },
     {
       "train_number": "1142",
@@ -1717,7 +1717,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-29"
     },
     {
       "train_number": "1143",
@@ -1729,7 +1729,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-01"
     },
     {
       "train_number": "1144",
@@ -1741,7 +1741,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-01"
     },
     {
       "train_number": "1145",
@@ -1753,7 +1753,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-06"
     },
     {
       "train_number": "1146",
@@ -1765,7 +1765,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-03"
     },
     {
       "train_number": "1147",
@@ -1777,7 +1777,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-03-31"
     },
     {
       "train_number": "1148",
@@ -1789,7 +1789,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-09"
     },
     {
       "train_number": "1149",
@@ -1801,7 +1801,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-24"
     },
     {
       "train_number": "1150",
@@ -1813,7 +1813,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-28"
     },
     {
       "train_number": "1151",
@@ -1825,7 +1825,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-25"
     },
     {
       "train_number": "1152",
@@ -1837,7 +1837,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-18"
     },
     {
       "train_number": "1153",
@@ -1849,7 +1849,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-24"
     },
     {
       "train_number": "1154",
@@ -1861,7 +1861,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-12"
     },
     {
       "train_number": "1155",
@@ -1873,7 +1873,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-26"
     },
     {
       "train_number": "1156",
@@ -1885,7 +1885,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-22"
     },
     {
       "train_number": "1157",
@@ -1897,7 +1897,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-28"
     },
     {
       "train_number": "1158",
@@ -1909,7 +1909,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-03"
     },
     {
       "train_number": "1159",
@@ -1921,7 +1921,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-03"
     },
     {
       "train_number": "1160",
@@ -1933,7 +1933,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-22"
     },
     {
       "train_number": "1161",
@@ -1945,7 +1945,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-24"
     },
     {
       "train_number": "1162",
@@ -1957,7 +1957,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-26"
     },
     {
       "train_number": "1163",
@@ -1969,7 +1969,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-30"
     },
     {
       "train_number": "1164",
@@ -1981,7 +1981,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-02"
     },
     {
       "train_number": "1165",
@@ -1993,7 +1993,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-09"
     },
     {
       "train_number": "1166",
@@ -2005,7 +2005,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-08"
     },
     {
       "train_number": "1167",
@@ -2017,7 +2017,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-12"
     },
     {
       "train_number": "1168",
@@ -2029,7 +2029,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-09"
     },
     {
       "train_number": "1169",
@@ -2041,7 +2041,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-10"
     },
     {
       "train_number": "1170",
@@ -2053,7 +2053,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-03-30"
     },
     {
       "train_number": "1171",
@@ -2065,7 +2065,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-09"
     },
     {
       "train_number": "1172",
@@ -2077,7 +2077,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-03"
     },
     {
       "train_number": "1173",
@@ -2089,7 +2089,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-03-29"
     },
     {
       "train_number": "1174",
@@ -2101,7 +2101,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-06"
     },
     {
       "train_number": "1175",
@@ -2113,7 +2113,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-01"
     },
     {
       "train_number": "1176",
@@ -2125,7 +2125,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-12"
     },
     {
       "train_number": "1177",
@@ -2137,7 +2137,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-06"
     },
     {
       "train_number": "1178",
@@ -2149,7 +2149,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-27"
     },
     {
       "train_number": "1179",
@@ -2161,7 +2161,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-01"
     },
     {
       "train_number": "1180",
@@ -2173,7 +2173,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-06"
     },
     {
       "train_number": "1181",
@@ -2185,7 +2185,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1182",
@@ -2197,7 +2197,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-11"
     },
     {
       "train_number": "1183",
@@ -2209,7 +2209,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-05"
     },
     {
       "train_number": "1184",
@@ -2221,7 +2221,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-17"
     },
     {
       "train_number": "1185",
@@ -2233,7 +2233,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1186",
@@ -2245,7 +2245,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-11"
     },
     {
       "train_number": "1187",
@@ -2257,7 +2257,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-04"
     },
     {
       "train_number": "1188",
@@ -2269,7 +2269,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1189",
@@ -2281,7 +2281,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1190",
@@ -2293,7 +2293,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-31"
     },
     {
       "train_number": "1191",
@@ -2305,7 +2305,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-25"
     },
     {
       "train_number": "1192",
@@ -2317,7 +2317,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-21"
     },
     {
       "train_number": "1193",
@@ -2329,7 +2329,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-20"
     },
     {
       "train_number": "1194",
@@ -2341,7 +2341,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-08"
     },
     {
       "train_number": "1195",
@@ -2353,7 +2353,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-13"
     },
     {
       "train_number": "1196",
@@ -2365,7 +2365,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-16"
     },
     {
       "train_number": "1197",
@@ -2377,7 +2377,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-19"
     },
     {
       "train_number": "1198",
@@ -2389,7 +2389,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-13"
     },
     {
       "train_number": "1199",
@@ -2401,7 +2401,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-11"
     },
     {
       "train_number": "1200",
@@ -2413,7 +2413,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-07"
     },
     {
       "train_number": "1201",
@@ -2425,7 +2425,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-24"
     },
     {
       "train_number": "1202",
@@ -2437,7 +2437,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-27"
     },
     {
       "train_number": "1203",
@@ -2449,7 +2449,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-25"
     },
     {
       "train_number": "1204",
@@ -2461,7 +2461,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-08"
     },
     {
       "train_number": "1205",
@@ -2473,7 +2473,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-21"
     },
     {
       "train_number": "1206",
@@ -2485,7 +2485,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-09"
     },
     {
       "train_number": "1207",
@@ -2497,7 +2497,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1208",
@@ -2509,7 +2509,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-12"
     },
     {
       "train_number": "1209",
@@ -2521,7 +2521,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-18"
     },
     {
       "train_number": "1210",
@@ -2533,7 +2533,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-01"
     },
     {
       "train_number": "1211",
@@ -2545,7 +2545,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-27"
     },
     {
       "train_number": "1212",
@@ -2557,7 +2557,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-01"
     },
     {
       "train_number": "1213",
@@ -2569,7 +2569,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-25"
     },
     {
       "train_number": "1214",
@@ -2581,7 +2581,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-13"
     },
     {
       "train_number": "1215",
@@ -2593,7 +2593,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-10"
     },
     {
       "train_number": "1216",
@@ -2605,7 +2605,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-14"
     },
     {
       "train_number": "1217",
@@ -2617,7 +2617,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1218",
@@ -2629,7 +2629,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1219",
@@ -2641,7 +2641,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1220",
@@ -2653,7 +2653,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-29"
     },
     {
       "train_number": "1221",
@@ -2665,7 +2665,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-02"
     },
     {
       "train_number": "1222",
@@ -2677,7 +2677,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-01"
     },
     {
       "train_number": "1223",
@@ -2689,7 +2689,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-18"
     },
     {
       "train_number": "1224",
@@ -2701,7 +2701,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-24"
     },
     {
       "train_number": "1225",
@@ -2713,7 +2713,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-08"
     },
     {
       "train_number": "1226",
@@ -2725,7 +2725,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-24"
     },
     {
       "train_number": "1227",
@@ -2737,7 +2737,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-12"
     },
     {
       "train_number": "1228",
@@ -2749,7 +2749,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-07"
     },
     {
       "train_number": "1229",
@@ -2761,7 +2761,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-24"
     },
     {
       "train_number": "1230",
@@ -2773,7 +2773,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1231",
@@ -2785,7 +2785,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-16"
     },
     {
       "train_number": "1232",
@@ -2797,7 +2797,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-11"
     },
     {
       "train_number": "1233",
@@ -2809,7 +2809,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-29"
     },
     {
       "train_number": "1234",
@@ -2821,7 +2821,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-09"
     },
     {
       "train_number": "1235",
@@ -2833,7 +2833,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-05"
     },
     {
       "train_number": "1236",
@@ -2845,7 +2845,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-12"
     },
     {
       "train_number": "1237",
@@ -2857,7 +2857,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-18"
     },
     {
       "train_number": "1238",
@@ -2869,7 +2869,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-04"
     },
     {
       "train_number": "1239",
@@ -2881,7 +2881,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-26"
     },
     {
       "train_number": "1240",
@@ -2893,7 +2893,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-24"
     },
     {
       "train_number": "1241",
@@ -2905,7 +2905,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-06"
     },
     {
       "train_number": "1242",
@@ -2917,7 +2917,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-15"
     },
     {
       "train_number": "1243",
@@ -2929,7 +2929,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-22"
     },
     {
       "train_number": "1244",
@@ -2941,7 +2941,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-11"
     },
     {
       "train_number": "1245",
@@ -2953,7 +2953,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1246",
@@ -2965,7 +2965,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1247",
@@ -2977,7 +2977,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-12"
     },
     {
       "train_number": "1248",
@@ -2989,7 +2989,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1249",
@@ -3001,7 +3001,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-11"
     },
     {
       "train_number": "1250",
@@ -3013,7 +3013,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-24"
     },
     {
       "train_number": "1251",
@@ -3025,7 +3025,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1252",
@@ -3037,7 +3037,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-12"
     },
     {
       "train_number": "1253",
@@ -3049,7 +3049,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-09"
     },
     {
       "train_number": "1254",
@@ -3061,7 +3061,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-04-07"
     },
     {
       "train_number": "1255",
@@ -3073,7 +3073,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1256",
@@ -3085,7 +3085,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-03"
     },
     {
       "train_number": "1257",
@@ -3097,7 +3097,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1258",
@@ -3109,7 +3109,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-22"
     },
     {
       "train_number": "1259",
@@ -3121,7 +3121,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-17"
     },
     {
       "train_number": "1260",
@@ -3133,7 +3133,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-13"
     },
     {
       "train_number": "1261",
@@ -3145,7 +3145,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-04-30"
     },
     {
       "train_number": "1262",
@@ -3157,7 +3157,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-10"
     },
     {
       "train_number": "1263",
@@ -3169,7 +3169,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-25"
     },
     {
       "train_number": "1264",
@@ -3181,7 +3181,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-11"
     },
     {
       "train_number": "1265",
@@ -3193,7 +3193,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1266",
@@ -3205,7 +3205,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-02"
     },
     {
       "train_number": "1267",
@@ -3217,7 +3217,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-19"
     },
     {
       "train_number": "1268",
@@ -3229,7 +3229,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-24"
     },
     {
       "train_number": "1269",
@@ -3241,7 +3241,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-09"
     },
     {
       "train_number": "1270",
@@ -3253,7 +3253,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-02"
     },
     {
       "train_number": "1271",
@@ -3265,7 +3265,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-07"
     },
     {
       "train_number": "1272",
@@ -3277,7 +3277,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-10"
     },
     {
       "train_number": "1273",
@@ -3289,7 +3289,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-04-09"
     },
     {
       "train_number": "1274",
@@ -3301,7 +3301,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-03-31"
     },
     {
       "train_number": "1275",
@@ -3313,7 +3313,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-24"
     },
     {
       "train_number": "1276",
@@ -3325,7 +3325,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-13"
     },
     {
       "train_number": "1277",
@@ -3337,7 +3337,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-09"
     },
     {
       "train_number": "1278",
@@ -3349,7 +3349,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-08"
     },
     {
       "train_number": "1279",
@@ -3361,7 +3361,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-29"
     },
     {
       "train_number": "1280",
@@ -3373,7 +3373,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1281",
@@ -3385,7 +3385,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-10"
     },
     {
       "train_number": "1282",
@@ -3397,7 +3397,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-27"
     },
     {
       "train_number": "1283",
@@ -3409,7 +3409,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-21"
     },
     {
       "train_number": "1284",
@@ -3421,7 +3421,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-25"
     },
     {
       "train_number": "1285",
@@ -3433,7 +3433,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1286",
@@ -3445,7 +3445,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-26"
     },
     {
       "train_number": "1287",
@@ -3457,7 +3457,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-06"
     },
     {
       "train_number": "1288",
@@ -3469,7 +3469,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-03"
     },
     {
       "train_number": "1289",
@@ -3481,7 +3481,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-22"
     },
     {
       "train_number": "1290",
@@ -3493,7 +3493,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-01"
     },
     {
       "train_number": "1291",
@@ -3505,7 +3505,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-07"
     },
     {
       "train_number": "1292",
@@ -3517,7 +3517,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-26"
     },
     {
       "train_number": "1293",
@@ -3529,7 +3529,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-13"
     },
     {
       "train_number": "1294",
@@ -3541,7 +3541,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-03-30"
     },
     {
       "train_number": "1295",
@@ -3553,7 +3553,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-14"
     },
     {
       "train_number": "1296",
@@ -3565,7 +3565,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-13"
     },
     {
       "train_number": "1297",
@@ -3577,7 +3577,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1298",
@@ -3589,7 +3589,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-28"
     },
     {
       "train_number": "1299",
@@ -3601,7 +3601,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-03-30"
     },
     {
       "train_number": "1300",
@@ -3613,7 +3613,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-10"
     },
     {
       "train_number": "1301",
@@ -3625,7 +3625,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-02"
     },
     {
       "train_number": "1302",
@@ -3637,7 +3637,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-18"
     },
     {
       "train_number": "1303",
@@ -3649,7 +3649,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1304",
@@ -3661,7 +3661,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-04-07"
     },
     {
       "train_number": "1305",
@@ -3673,7 +3673,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-22"
     },
     {
       "train_number": "1306",
@@ -3685,7 +3685,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-12"
     },
     {
       "train_number": "1307",
@@ -3697,7 +3697,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1308",
@@ -3709,7 +3709,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-12"
     },
     {
       "train_number": "1309",
@@ -3721,7 +3721,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-30"
     },
     {
       "train_number": "1310",
@@ -3733,7 +3733,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-25"
     },
     {
       "train_number": "1311",
@@ -3745,7 +3745,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1312",
@@ -3757,7 +3757,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-28"
     },
     {
       "train_number": "1313",
@@ -3769,7 +3769,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-16"
     },
     {
       "train_number": "1314",
@@ -3781,7 +3781,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-03-29"
     },
     {
       "train_number": "1315",
@@ -3793,7 +3793,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-29"
     },
     {
       "train_number": "1316",
@@ -3805,7 +3805,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-08"
     },
     {
       "train_number": "1317",
@@ -3817,7 +3817,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-10"
     },
     {
       "train_number": "1318",
@@ -3829,7 +3829,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-19"
     },
     {
       "train_number": "1319",
@@ -3841,7 +3841,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-26"
     },
     {
       "train_number": "1320",
@@ -3853,7 +3853,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-01"
     },
     {
       "train_number": "1321",
@@ -3865,7 +3865,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-24"
     },
     {
       "train_number": "1322",
@@ -3877,7 +3877,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-04-19"
     },
     {
       "train_number": "1323",
@@ -3889,7 +3889,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-15"
     },
     {
       "train_number": "1324",
@@ -3901,7 +3901,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-10"
     },
     {
       "train_number": "1325",
@@ -3913,7 +3913,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1326",
@@ -3925,7 +3925,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-09"
     },
     {
       "train_number": "1327",
@@ -3937,7 +3937,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1328",
@@ -3949,7 +3949,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-10"
     },
     {
       "train_number": "1329",
@@ -3961,7 +3961,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-23"
     },
     {
       "train_number": "1330",
@@ -3973,7 +3973,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-04"
     },
     {
       "train_number": "1331",
@@ -3985,7 +3985,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-06"
     },
     {
       "train_number": "1332",
@@ -3997,7 +3997,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-28"
     },
     {
       "train_number": "1333",
@@ -4009,7 +4009,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-05"
     },
     {
       "train_number": "1334",
@@ -4021,7 +4021,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-02"
     },
     {
       "train_number": "1335",
@@ -4033,7 +4033,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-04-22"
     },
     {
       "train_number": "1336",
@@ -4045,7 +4045,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-02"
     },
     {
       "train_number": "1337",
@@ -4057,7 +4057,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-22"
     },
     {
       "train_number": "1338",
@@ -4069,7 +4069,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-11"
     },
     {
       "train_number": "1339",
@@ -4081,7 +4081,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1340",
@@ -4093,7 +4093,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-30"
     },
     {
       "train_number": "1341",
@@ -4105,7 +4105,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-14"
     },
     {
       "train_number": "1342",
@@ -4117,7 +4117,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-30"
     },
     {
       "train_number": "1343",
@@ -4129,7 +4129,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-19"
     },
     {
       "train_number": "1344",
@@ -4141,7 +4141,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-27"
     },
     {
       "train_number": "1345",
@@ -4153,7 +4153,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-09"
     },
     {
       "train_number": "1346",
@@ -4165,7 +4165,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1347",
@@ -4177,7 +4177,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-29"
     },
     {
       "train_number": "1348",
@@ -4189,7 +4189,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-12"
     },
     {
       "train_number": "1349",
@@ -4201,7 +4201,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-03"
     },
     {
       "train_number": "1350",
@@ -4213,7 +4213,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1351",
@@ -4225,7 +4225,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-25"
     },
     {
       "train_number": "1352",
@@ -4237,7 +4237,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1353",
@@ -4249,7 +4249,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-01"
     },
     {
       "train_number": "1354",
@@ -4261,7 +4261,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-17"
     },
     {
       "train_number": "1355",
@@ -4273,7 +4273,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-03"
     },
     {
       "train_number": "1356",
@@ -4285,7 +4285,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-08"
     },
     {
       "train_number": "1357",
@@ -4297,7 +4297,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-29"
     },
     {
       "train_number": "1358",
@@ -4309,7 +4309,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-21"
     },
     {
       "train_number": "1359",
@@ -4321,7 +4321,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-28"
     },
     {
       "train_number": "1360",
@@ -4333,7 +4333,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1361",
@@ -4345,7 +4345,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-19"
     },
     {
       "train_number": "1362",
@@ -4357,7 +4357,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-12"
     },
     {
       "train_number": "1363",
@@ -4369,7 +4369,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-19"
     },
     {
       "train_number": "1364",
@@ -4381,7 +4381,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-22"
     },
     {
       "train_number": "1365",
@@ -4393,7 +4393,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-28"
     },
     {
       "train_number": "1366",
@@ -4405,7 +4405,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-06"
     },
     {
       "train_number": "1367",
@@ -4417,7 +4417,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-24"
     },
     {
       "train_number": "1368",
@@ -4429,7 +4429,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-11"
     },
     {
       "train_number": "1369",
@@ -4441,7 +4441,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-17"
     },
     {
       "train_number": "1370",
@@ -4453,7 +4453,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-16"
     },
     {
       "train_number": "1371",
@@ -4465,7 +4465,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1372",
@@ -4477,7 +4477,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-22"
     },
     {
       "train_number": "1373",
@@ -4489,7 +4489,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-19"
     },
     {
       "train_number": "1374",
@@ -4501,7 +4501,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-13"
     },
     {
       "train_number": "1375",
@@ -4513,7 +4513,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-10"
     },
     {
       "train_number": "1376",
@@ -4525,7 +4525,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-16"
     },
     {
       "train_number": "1377",
@@ -4537,7 +4537,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-29"
     },
     {
       "train_number": "1378",
@@ -4549,7 +4549,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-02"
     },
     {
       "train_number": "1379",
@@ -4561,7 +4561,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1380",
@@ -4573,7 +4573,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-13"
     },
     {
       "train_number": "1381",
@@ -4585,7 +4585,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-21"
     },
     {
       "train_number": "1382",
@@ -4597,7 +4597,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-02"
     },
     {
       "train_number": "1383",
@@ -4609,7 +4609,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-03-30"
     },
     {
       "train_number": "1384",
@@ -4621,7 +4621,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-17"
     },
     {
       "train_number": "1385",
@@ -4633,7 +4633,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-27"
     },
     {
       "train_number": "1386",
@@ -4645,7 +4645,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-17"
     },
     {
       "train_number": "1387",
@@ -4657,7 +4657,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1388",
@@ -4669,7 +4669,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1389",
@@ -4681,7 +4681,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-27"
     },
     {
       "train_number": "1390",
@@ -4693,7 +4693,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-08"
     },
     {
       "train_number": "1391",
@@ -4705,7 +4705,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1392",
@@ -4717,7 +4717,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-02"
     },
     {
       "train_number": "1393",
@@ -4729,7 +4729,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-17"
     },
     {
       "train_number": "1394",
@@ -4741,7 +4741,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-04-20"
     },
     {
       "train_number": "1395",
@@ -4753,7 +4753,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-27"
     },
     {
       "train_number": "1396",
@@ -4765,7 +4765,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-02"
     },
     {
       "train_number": "1397",
@@ -4777,7 +4777,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-06"
     },
     {
       "train_number": "1398",
@@ -4789,7 +4789,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-30"
     },
     {
       "train_number": "1399",
@@ -4801,7 +4801,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1400",
@@ -4813,7 +4813,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-26"
     },
     {
       "train_number": "1401",
@@ -4825,7 +4825,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-03-31"
     },
     {
       "train_number": "1402",
@@ -4837,7 +4837,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-15"
     },
     {
       "train_number": "1403",
@@ -4849,7 +4849,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-21"
     },
     {
       "train_number": "1404",
@@ -4861,7 +4861,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-04"
     },
     {
       "train_number": "1405",
@@ -4873,7 +4873,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-26"
     },
     {
       "train_number": "1406",
@@ -4885,7 +4885,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-04"
     },
     {
       "train_number": "1407",
@@ -4897,7 +4897,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-23"
     },
     {
       "train_number": "1408",
@@ -4909,7 +4909,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-13"
     },
     {
       "train_number": "1409",
@@ -4921,7 +4921,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-05"
     },
     {
       "train_number": "1410",
@@ -4933,7 +4933,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-05-01"
     },
     {
       "train_number": "1411",
@@ -4945,7 +4945,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1412",
@@ -4957,7 +4957,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-20"
     },
     {
       "train_number": "1413",
@@ -4969,7 +4969,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-11"
     },
     {
       "train_number": "1414",
@@ -4981,7 +4981,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-12"
     },
     {
       "train_number": "1415",
@@ -4993,7 +4993,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-14"
     },
     {
       "train_number": "1416",
@@ -5005,7 +5005,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-05"
     },
     {
       "train_number": "1417",
@@ -5017,7 +5017,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1418",
@@ -5029,7 +5029,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-28"
     },
     {
       "train_number": "1419",
@@ -5041,7 +5041,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-25"
     },
     {
       "train_number": "1420",
@@ -5053,7 +5053,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-19"
     },
     {
       "train_number": "1421",
@@ -5065,7 +5065,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-18"
     },
     {
       "train_number": "1422",
@@ -5077,7 +5077,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-01"
     },
     {
       "train_number": "1423",
@@ -5089,7 +5089,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1424",
@@ -5101,7 +5101,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-13"
     },
     {
       "train_number": "1425",
@@ -5113,7 +5113,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-07"
     },
     {
       "train_number": "1426",
@@ -5125,7 +5125,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-10"
     },
     {
       "train_number": "1427",
@@ -5137,7 +5137,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-27"
     },
     {
       "train_number": "1428",
@@ -5149,7 +5149,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-06-08"
     },
     {
       "train_number": "1429",
@@ -5161,7 +5161,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-02"
     },
     {
       "train_number": "1430",
@@ -5173,7 +5173,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-31"
     },
     {
       "train_number": "1431",
@@ -5185,7 +5185,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-05"
     },
     {
       "train_number": "1432",
@@ -5197,7 +5197,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-10"
     },
     {
       "train_number": "1433",
@@ -5209,7 +5209,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-08"
     },
     {
       "train_number": "1434",
@@ -5221,7 +5221,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-27"
     },
     {
       "train_number": "1435",
@@ -5233,7 +5233,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-08"
     },
     {
       "train_number": "1436",
@@ -5245,7 +5245,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-04-28"
     },
     {
       "train_number": "1437",
@@ -5257,7 +5257,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-19"
     },
     {
       "train_number": "1438",
@@ -5269,7 +5269,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-06"
     },
     {
       "train_number": "1439",
@@ -5281,7 +5281,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-25"
     },
     {
       "train_number": "1440",
@@ -5293,7 +5293,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-17"
     },
     {
       "train_number": "1441",
@@ -5305,7 +5305,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-14"
     },
     {
       "train_number": "1442",
@@ -5317,7 +5317,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-21"
     },
     {
       "train_number": "1443",
@@ -5329,7 +5329,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1444",
@@ -5341,7 +5341,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-12"
     },
     {
       "train_number": "1445",
@@ -5353,7 +5353,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-30"
     },
     {
       "train_number": "1446",
@@ -5365,7 +5365,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-04"
     },
     {
       "train_number": "1447",
@@ -5377,7 +5377,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-29"
     },
     {
       "train_number": "1448",
@@ -5389,7 +5389,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-22"
     },
     {
       "train_number": "1449",
@@ -5401,7 +5401,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1450",
@@ -5413,7 +5413,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-06"
     },
     {
       "train_number": "1451",
@@ -5425,7 +5425,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-12"
     },
     {
       "train_number": "1452",
@@ -5437,7 +5437,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-06"
     },
     {
       "train_number": "1453",
@@ -5449,7 +5449,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-31"
     },
     {
       "train_number": "1454",
@@ -5461,7 +5461,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-07"
     },
     {
       "train_number": "1455",
@@ -5473,7 +5473,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-02"
     },
     {
       "train_number": "1456",
@@ -5485,7 +5485,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-04"
     },
     {
       "train_number": "1457",
@@ -5497,7 +5497,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-26"
     },
     {
       "train_number": "1458",
@@ -5509,7 +5509,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-08"
     },
     {
       "train_number": "1459",
@@ -5521,7 +5521,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-06-11"
     },
     {
       "train_number": "1460",
@@ -5533,7 +5533,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-18"
     },
     {
       "train_number": "1461",
@@ -5545,7 +5545,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-05-08"
     },
     {
       "train_number": "1462",
@@ -5557,7 +5557,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-14"
     },
     {
       "train_number": "1463",
@@ -5569,7 +5569,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-15"
     },
     {
       "train_number": "1464",
@@ -5581,7 +5581,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-05"
     },
     {
       "train_number": "1465",
@@ -5593,7 +5593,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-07"
     },
     {
       "train_number": "1466",
@@ -5605,7 +5605,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-04-06"
     },
     {
       "train_number": "1467",
@@ -5617,7 +5617,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-14"
     },
     {
       "train_number": "1468",
@@ -5629,7 +5629,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-06-03"
     },
     {
       "train_number": "1469",
@@ -5641,7 +5641,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-19"
     },
     {
       "train_number": "1470",
@@ -5653,7 +5653,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-10"
     },
     {
       "train_number": "1471",
@@ -5665,7 +5665,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-03-28"
     },
     {
       "train_number": "1472",
@@ -5677,7 +5677,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-04-30"
     },
     {
       "train_number": "1473",
@@ -5689,7 +5689,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-16"
     },
     {
       "train_number": "1474",
@@ -5701,7 +5701,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-05-27"
     },
     {
       "train_number": "1475",
@@ -5713,7 +5713,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "HYD",
       "dstn_stn_name": "HYDERABAD",
-      "date": "2026-07-01"
+      "date": "2026-04-13"
     },
     {
       "train_number": "1476",
@@ -5725,7 +5725,7 @@
       "src_stn_name": "BANGALORE",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-04-17"
     },
     {
       "train_number": "1477",
@@ -5737,7 +5737,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-03"
     },
     {
       "train_number": "1478",
@@ -5749,7 +5749,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-05-27"
     },
     {
       "train_number": "1479",
@@ -5761,7 +5761,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-29"
     },
     {
       "train_number": "1480",
@@ -5773,7 +5773,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-17"
     },
     {
       "train_number": "1481",
@@ -5785,7 +5785,7 @@
       "src_stn_name": "AHMEDABAD",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-06-04"
     },
     {
       "train_number": "1482",
@@ -5797,7 +5797,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-05-23"
     },
     {
       "train_number": "1483",
@@ -5809,7 +5809,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-10"
     },
     {
       "train_number": "1484",
@@ -5821,7 +5821,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-04-30"
     },
     {
       "train_number": "1485",
@@ -5833,7 +5833,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-04-14"
     },
     {
       "train_number": "1486",
@@ -5845,7 +5845,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-25"
     },
     {
       "train_number": "1487",
@@ -5857,7 +5857,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "BAN",
       "dstn_stn_name": "BANGALORE",
-      "date": "2026-07-01"
+      "date": "2026-04-06"
     },
     {
       "train_number": "1488",
@@ -5869,7 +5869,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "LUC",
       "dstn_stn_name": "LUCKNOW",
-      "date": "2026-07-01"
+      "date": "2026-06-09"
     },
     {
       "train_number": "1489",
@@ -5881,7 +5881,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "PUN",
       "dstn_stn_name": "PUNE",
-      "date": "2026-07-01"
+      "date": "2026-05-08"
     },
     {
       "train_number": "1490",
@@ -5893,7 +5893,7 @@
       "src_stn_name": "JAIPUR",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-01"
     },
     {
       "train_number": "1491",
@@ -5905,7 +5905,7 @@
       "src_stn_name": "CHENNAI",
       "dstn_stn_code": "MUM",
       "dstn_stn_name": "MUMBAI",
-      "date": "2026-07-01"
+      "date": "2026-05-07"
     },
     {
       "train_number": "1492",
@@ -5917,7 +5917,7 @@
       "src_stn_name": "DELHI",
       "dstn_stn_code": "KOL",
       "dstn_stn_name": "KOLKATA",
-      "date": "2026-07-01"
+      "date": "2026-05-02"
     },
     {
       "train_number": "1493",
@@ -5929,7 +5929,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "AHM",
       "dstn_stn_name": "AHMEDABAD",
-      "date": "2026-07-01"
+      "date": "2026-06-02"
     },
     {
       "train_number": "1494",
@@ -5941,7 +5941,7 @@
       "src_stn_name": "LUCKNOW",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-03-29"
     },
     {
       "train_number": "1495",
@@ -5953,7 +5953,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-06-23"
     },
     {
       "train_number": "1496",
@@ -5965,7 +5965,7 @@
       "src_stn_name": "KOLKATA",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-15"
     },
     {
       "train_number": "1497",
@@ -5977,7 +5977,7 @@
       "src_stn_name": "PUNE",
       "dstn_stn_code": "CHE",
       "dstn_stn_name": "CHENNAI",
-      "date": "2026-07-01"
+      "date": "2026-06-02"
     },
     {
       "train_number": "1498",
@@ -5989,7 +5989,7 @@
       "src_stn_name": "MUMBAI",
       "dstn_stn_code": "DEL",
       "dstn_stn_name": "DELHI",
-      "date": "2026-07-01"
+      "date": "2026-05-28"
     },
     {
       "train_number": "1499",
@@ -6001,7 +6001,7 @@
       "src_stn_name": "HYDERABAD",
       "dstn_stn_code": "JAI",
       "dstn_stn_name": "JAIPUR",
-      "date": "2026-07-01"
+      "date": "2026-06-06"
     }
   ]
 }

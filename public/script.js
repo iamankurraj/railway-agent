@@ -186,13 +186,25 @@ function renderTrainTable(trains) {
 
   trains.forEach((td) => {
     if (!td) return;
-    const classes = Array.isArray(td.classes)
-      ? td.classes.map((c) => `
+    let classes = "";
+    let classSelectHtml = "";
+    if (Array.isArray(td.classes) && td.classes.length) {
+      classes = td.classes.map((c) => `
           <div class="class-item">
             <b>${tData(c.class_name) || "-"}</b><br>
             ₹${c.price ?? "-"} — ${c.seats_available ?? 0} seats
-          </div>`).join("")
-      : "<i>No class info</i>";
+          </div>`).join("");
+
+      // build select options for choosing class when reserving
+      const opts = td.classes.map((c) => {
+        const label = `${c.class_name} — ₹${c.price}`;
+        return `<option value="${(c.class_name || "").replace(/\"/g, '&quot;')}">${label}</option>`;
+      }).join("");
+
+      classSelectHtml = `<div class="class-select-wrapper"><select class="class-select" data-train-id="${td.train_id || ''}">${opts}</select></div>`;
+    } else {
+      classes = "<i>No class info</i>";
+    }
 
     html += `
       <tr>
@@ -202,6 +214,10 @@ function renderTrainTable(trains) {
         <td>${td.date ?? "-"}</td>
         <td>${td.departure_time ?? "-"} → ${td.arrival_time ?? "-"}</td>
         <td>${classes}</td>
+        <td>
+          ${classSelectHtml}
+          <button class="reserve-btn" data-train='${JSON.stringify(td).replace(/'/g, "&#39;") }'>Reserve</button>
+        </td>
       </tr>
     `;
   });
@@ -209,6 +225,64 @@ function renderTrainTable(trains) {
   html += "</tbody></table>";
   return html;
 }
+
+// ================= RESERVATION HANDLING =================
+document.addEventListener("click", async (e) => {
+  if (!e.target.matches || !e.target.matches('.reserve-btn')) return;
+  const btn = e.target;
+  const td = JSON.parse(btn.getAttribute('data-train'));
+  const className = Array.isArray(td.classes) && td.classes.length ? td.classes[0].class_name : "Sleeper";
+
+  btn.disabled = true;
+  btn.textContent = "Reserving...";
+
+  try {
+    // read selected class from the same row if present
+    const row = btn.closest('tr');
+    const select = row ? row.querySelector('.class-select') : null;
+    const selectedClass = select ? select.value : className;
+
+    const payload = {
+      train_id: td.train_id || td.train_number || (td.trainNo || ""),
+      train_name: td.train_name || td.trainName || td.train_name,
+      date: td.date,
+      class_name: selectedClass,
+      passenger_name: "Demo Passenger"
+    };
+
+    const res = await fetch(window.location.origin + "/booking", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload)
+    });
+
+    const rec = await res.json();
+    if (res.status !== 200) {
+      alert(rec.error || 'Reservation failed');
+      return;
+    }
+
+    // show a small booking card with price
+    const card = document.createElement('div');
+    card.className = 'result-card';
+    card.innerHTML = `
+      <h3>Reservation Confirmed</h3>
+      <p>PNR: <b>${rec.pnr}</b></p>
+      <p>${rec.train_name} • ${rec.date} • ${rec.class} • ₹${rec.price}</p>
+      <a href="/booking/${rec.pnr}/export">Download .ics</a>
+      &nbsp;|&nbsp;
+      <a href="/booking/${rec.pnr}/pdf">Download PDF</a>
+    `;
+    resultContainer.prepend(card);
+
+  } catch (err) {
+    console.error(err);
+    alert('Reservation failed');
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Reserve';
+  }
+});
 
 // ================= DISPLAY RESULT =================
 // Centralised so both live queries AND history restores use the same logic
@@ -228,8 +302,39 @@ function displayResult(jsonData) {
     if (jsonData.length === 0) {
       resultContainer.innerHTML = `<p style="color:gray; font-style:italic;">🚫 No trains found for this query.</p>`;
     } else {
-      resultContainer.innerHTML = renderTrainTable(jsonData);
+      // Disambiguation: single object with disambiguation flag
+      if (jsonData[0] && jsonData[0].disambiguation) {
+        const box = document.createElement('div');
+        box.className = 'result-card';
+        const p = document.createElement('p');
+        p.textContent = jsonData[0].prompt || 'Which train did you mean?';
+        box.appendChild(p);
+
+        const list = document.createElement('div');
+        list.className = 'disambiguation-list';
+        (jsonData[0].options || []).forEach(opt => {
+          const btn = document.createElement('button');
+          btn.className = 'disambiguation-option';
+          btn.textContent = `${opt.index}. ${opt.train_name} — ${opt.origin || '-'} → ${opt.destination || '-'} @ ${opt.departure_time || '-'} `;
+          btn.onclick = () => selectDisambiguationOption(opt);
+          list.appendChild(btn);
+        });
+        box.appendChild(list);
+        resultContainer.appendChild(box);
+        return;
+      }
+      // If items are class-level matches (have class_name), render class table
+      if (jsonData[0] && jsonData[0].class_name) {
+        resultContainer.innerHTML = renderClassMatchesTable(jsonData);
+      } else {
+        resultContainer.innerHTML = renderTrainTable(jsonData);
+      }
     }
+    return;
+  }
+  // Booking confirmation object
+  if (jsonData.booking) {
+    resultContainer.appendChild(renderBookingCard(jsonData.booking));
     return;
   }
   // Single info object
@@ -239,6 +344,94 @@ function displayResult(jsonData) {
   }
   // Fallback
   resultContainer.innerHTML = `<pre>${JSON.stringify(jsonData, null, 2)}</pre>`;
+}
+
+function renderBookingCard(booking) {
+  const card = document.createElement('div');
+  card.className = 'result-card booking-card';
+  card.innerHTML = `
+    <h3>Booking Confirmed</h3>
+    <p><strong>PNR:</strong> ${booking.pnr}</p>
+    <p><strong>${booking.train_name}</strong> • ${booking.date} • ${booking.class}</p>
+    <p><strong>Passenger:</strong> ${booking.passenger}</p>
+    <p><strong>Price:</strong> ₹${booking.price}</p>
+    <p><a href="/booking/${booking.pnr}/export">Download .ics</a> &nbsp;|&nbsp; <a href="/booking/${booking.pnr}/pdf">Download PDF</a></p>
+  `;
+  return card;
+}
+
+// Render table for class-level matches
+function renderClassMatchesTable(items) {
+  const t = translations[currentLang];
+  let html = `
+    <table class="train-table">
+      <thead>
+        <tr>
+          <th>${t.train_id}</th>
+          <th>${t.name}</th>
+          <th>${t.route}</th>
+          <th>${t.date}</th>
+          <th>Class</th>
+          <th>Price</th>
+          <th>Seats</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+  `;
+
+  items.forEach((it) => {
+    html += `
+      <tr>
+        <td>${it.train_id ?? "-"}</td>
+        <td>${tData(it.train_name) ?? "-"}</td>
+        <td>${tData(it.origin) ?? "-"} → ${tData(it.destination) ?? "-"}</td>
+        <td>${it.date ?? "-"}</td>
+        <td>${tData(it.class_name) ?? "-"}</td>
+        <td>₹${it.price ?? "-"}</td>
+        <td>${it.seats_available ?? 0}</td>
+        <td><button class="reserve-btn" data-train='${JSON.stringify(it).replace(/'/g, "&#39;") }'>Reserve</button></td>
+      </tr>
+    `;
+  });
+
+  html += "</tbody></table>";
+  return html;
+}
+
+// ================= DISAMBIGUATION SELECTION =================
+async function selectDisambiguationOption(opt) {
+  if (!opt) return;
+  const identifier = opt.train_id || opt.train_number || opt.train_name;
+  if (!identifier) return;
+
+  // show as user action
+  addMessage(`Selected: ${opt.train_name} (${identifier})`, 'user');
+
+  try {
+    showLoader(true);
+    const res = await fetch(window.location.origin + '/invoke', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ input: String(identifier), thread_id: 'ui', lang: currentLang })
+    });
+    showLoader(false);
+
+    let jsonData;
+    try {
+      jsonData = await res.json();
+    } catch (parseErr) {
+      console.error('Failed to parse JSON from /invoke:', parseErr);
+      jsonData = null;
+    }
+
+    saveHistory(identifier, jsonData);
+    displayResult(jsonData);
+  } catch (err) {
+    showLoader(false);
+    console.error('Disambiguation selection failed', err);
+    addMessage('Error selecting option', 'ai');
+  }
 }
 
 // ================= SAVE HISTORY =================

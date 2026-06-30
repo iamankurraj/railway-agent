@@ -1,16 +1,17 @@
 from langgraph.graph import StateGraph, END
 from langchain_core.messages import HumanMessage
 from app.state import AgentState
-from app.nodes import input_node, llm_node, query_node, fare_query_node, response_node  
+from app.nodes import input_node, llm_node, query_node, fare_query_node, booking_flow_node, response_node  
 from app.audio_search import listen_once
 
 def route_to_query_or_fare(state):
-    """Route based on intent: price_query goes to fare_query, others go to query_node"""
+    """Route based on intent: price_query goes to fare_query, book_train goes to booking_flow, others go to query_node."""
     intent = getattr(state, "intent", "search_trains")
     if intent == "price_query":
         return "fare_query"
-    else:
-        return "query"
+    if intent == "book_train":
+        return "booking_flow"
+    return "query"
 
 def build_graph():
     graph = StateGraph(AgentState)
@@ -20,6 +21,7 @@ def build_graph():
     graph.add_node("llm", llm_node.run)            
     graph.add_node("query", query_node.run)
     graph.add_node("fare_query", fare_query_node.run)
+    graph.add_node("booking_flow", booking_flow_node.run)
     graph.add_node("respond", response_node.run)
 
     # Define flow
@@ -32,12 +34,14 @@ def build_graph():
         route_to_query_or_fare,
         {
             "fare_query": "fare_query",
+            "booking_flow": "booking_flow",
             "query": "query",
         }
     )
     
     graph.add_edge("query", "respond")
     graph.add_edge("fare_query", "respond")
+    graph.add_edge("booking_flow", "respond")
     graph.add_edge("respond", END)
 
     return graph.compile()
@@ -45,10 +49,10 @@ def build_graph():
 app = build_graph()
 
 # Optional: visualizing flow
-# mermaid_png = app.get_graph().draw_mermaid_png()
-# with open("graph.png", "wb") as f:
-#     f.write(mermaid_png)
-# print("Graph image saved as 'graph.png' (open it to view).")
+mermaid_png = app.get_graph().draw_mermaid_png()
+with open("graph.png", "wb") as f:
+    f.write(mermaid_png)
+print("Graph image saved as 'graph.png' (open it to view).")
 
 def invoke_text(user_text: str) -> str:
     init: AgentState = {"messages": [HumanMessage(content=user_text)]}
