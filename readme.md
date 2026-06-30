@@ -1,10 +1,6 @@
 # 🚄 Smart Railway Query System - Complete Project Documentation
 
-**Project Location:** `c:\Users\ankur\developement\railway-agent`  
-**Type:** Full-Stack AI-Powered Railway Information System  
-**Date:** March 28, 2026
 
----
 
 ## 📋 Table of Contents
 
